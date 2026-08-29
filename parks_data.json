@@ -19,17 +19,17 @@
     "name": "Adams National Historical Park",
     "latitude": 42.2553961,
     "longitude": -71.01160356,
-    "forecast": "Mostly cloudy, with a low around 62. Northwest wind 5 to 8 mph.",
+    "forecast": "Partly cloudy, with a low around 62. Northwest wind around 8 mph.",
     "temperature": "62\u00b0F",
-    "wind": "5 to 8 mph NW"
+    "wind": "8 mph NW"
   },
   {
     "name": "African American Civil War Memorial",
     "latitude": 38.9166,
     "longitude": -77.026,
-    "forecast": "Partly cloudy, with a low around 66. Northeast wind 1 to 7 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Partly cloudy, with a low around 66. North wind 1 to 7 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 7 mph NE"
+    "wind": "1 to 7 mph N"
   },
   {
     "name": "African Burial Ground National Monument",
@@ -51,25 +51,25 @@
     "name": "Ala Kahakai National Historic Trail",
     "latitude": 19.144668109,
     "longitude": -155.890734294,
-    "forecast": "Scattered rain showers. Partly sunny. High near 85, with temperatures falling to around 80 in the afternoon. West wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "85\u00b0F",
-    "wind": "5 mph W"
+    "forecast": "Isolated rain showers before midnight. Partly cloudy, with a low around 72. North wind 1 to 5 mph. Chance of precipitation is 20%.",
+    "temperature": "72\u00b0F",
+    "wind": "1 to 5 mph N"
   },
   {
     "name": "Alagnak Wild River",
     "latitude": 59.05180188,
     "longitude": -156.112002,
-    "forecast": "Rain showers likely before 1am, then a chance of rain. Mostly cloudy, with a low around 44. Southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%.",
+    "forecast": "Rain showers likely before 1am, then a chance of rain. Mostly cloudy, with a low around 44. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%.",
     "temperature": "44\u00b0F",
-    "wind": "5 to 20 mph SW"
+    "wind": "5 to 15 mph SW"
   },
   {
     "name": "Alaska Public Lands",
     "latitude": 61.2188,
     "longitude": -149.894536,
-    "forecast": "Rain showers likely. Mostly cloudy, with a high near 60. Southeast wind around 25 mph. Chance of precipitation is 60%.",
-    "temperature": "60\u00b0F",
-    "wind": "25 mph SE"
+    "forecast": "Rain showers likely before 4am. Mostly cloudy, with a low around 48. South wind 5 to 25 mph. Chance of precipitation is 60%.",
+    "temperature": "48\u00b0F",
+    "wind": "5 to 25 mph S"
   },
   {
     "name": "Alcatraz Island",
@@ -91,9 +91,9 @@
     "name": "Alibates Flint Quarries National Monument",
     "latitude": 35.5819662,
     "longitude": -101.6717008,
-    "forecast": "Mostly clear, with a low around 74. South wind around 15 mph, with gusts as high as 25 mph.",
+    "forecast": "Partly cloudy, with a low around 74. South wind 10 to 15 mph, with gusts as high as 25 mph.",
     "temperature": "74\u00b0F",
-    "wind": "15 mph S"
+    "wind": "10 to 15 mph S"
   },
   {
     "name": "Allegheny Portage Railroad National Historic Site",
@@ -131,9 +131,9 @@
     "name": "Anacostia Park",
     "latitude": 38.8782,
     "longitude": -76.9703,
-    "forecast": "Partly cloudy, with a low around 66. Northeast wind 1 to 7 mph.",
+    "forecast": "Partly cloudy, with a low around 66. Northeast wind 3 to 7 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 7 mph NE"
+    "wind": "3 to 7 mph NE"
   },
   {
     "name": "Andersonville National Historic Site",
@@ -163,7 +163,7 @@
     "name": "Antietam National Battlefield",
     "latitude": 39.46763452,
     "longitude": -77.73828017,
-    "forecast": "Partly cloudy, with a low around 60. North wind around 3 mph.",
+    "forecast": "Mostly clear, with a low around 60. North wind around 3 mph.",
     "temperature": "60\u00b0F",
     "wind": "3 mph N"
   },
@@ -171,7 +171,7 @@
     "name": "Apostle Islands National Lakeshore",
     "latitude": 46.96240467,
     "longitude": -90.66045665,
-    "forecast": "A chance of rain showers after 5am. Mostly cloudy, with a low around 61. Southeast wind 0 to 5 mph.",
+    "forecast": "A chance of rain showers after 4am. Mostly cloudy, with a low around 61. Southeast wind 0 to 5 mph. Chance of precipitation is 20%.",
     "temperature": "61\u00b0F",
     "wind": "0 to 5 mph SE"
   },
@@ -195,9 +195,9 @@
     "name": "Arches National Park",
     "latitude": 38.72261844,
     "longitude": -109.5863666,
-    "forecast": "Isolated rain showers before 9pm. Mostly cloudy, with a low around 70. South southwest wind 5 to 10 mph.",
+    "forecast": "Mostly cloudy, with a low around 70. South southeast wind around 5 mph.",
     "temperature": "70\u00b0F",
-    "wind": "5 to 10 mph SSW"
+    "wind": "5 mph SSE"
   },
   {
     "name": "Arkansas Post National Memorial",
@@ -211,17 +211,17 @@
     "name": "Arlington House, The Robert E. Lee Memorial",
     "latitude": 38.8822021484,
     "longitude": -77.0734786987,
-    "forecast": "Partly cloudy, with a low around 66. North wind 1 to 7 mph.",
+    "forecast": "Partly cloudy, with a low around 66. North wind 3 to 7 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 7 mph N"
+    "wind": "3 to 7 mph N"
   },
   {
     "name": "Assateague Island National Seashore",
     "latitude": 38.05593172,
     "longitude": -75.24524611,
-    "forecast": "Mostly cloudy, with a low around 72. North wind 3 to 9 mph.",
+    "forecast": "Mostly cloudy, with a low around 72. North wind 5 to 10 mph.",
     "temperature": "72\u00b0F",
-    "wind": "3 to 9 mph N"
+    "wind": "5 to 10 mph N"
   },
   {
     "name": "Aztec Ruins National Monument",
@@ -235,7 +235,7 @@
     "name": "Badlands National Park",
     "latitude": 43.68584846,
     "longitude": -102.482942,
-    "forecast": "A slight chance of showers and thunderstorms before 9pm. Partly cloudy, with a low around 65. West wind around 7 mph, with gusts as high as 18 mph. Chance of precipitation is 20%.",
+    "forecast": "Partly cloudy, with a low around 65. West wind around 7 mph.",
     "temperature": "65\u00b0F",
     "wind": "7 mph W"
   },
@@ -243,9 +243,9 @@
     "name": "Baltimore-Washington Parkway",
     "latitude": 39.02604289,
     "longitude": -76.85410921,
-    "forecast": "Mostly clear, with a low around 63. North wind 1 to 6 mph.",
+    "forecast": "Mostly clear, with a low around 63. North wind around 6 mph.",
     "temperature": "63\u00b0F",
-    "wind": "1 to 6 mph N"
+    "wind": "6 mph N"
   },
   {
     "name": "Bandelier National Monument",
@@ -275,7 +275,7 @@
     "name": "Bering Land Bridge National Preserve",
     "latitude": 65.96087902,
     "longitude": -164.4086432,
-    "forecast": "Partly cloudy, with a low around 36. West wind 10 to 20 mph, with gusts as high as 35 mph.",
+    "forecast": "Mostly clear, with a low around 36. West wind 10 to 20 mph.",
     "temperature": "36\u00b0F",
     "wind": "10 to 20 mph W"
   },
@@ -299,9 +299,9 @@
     "name": "Big Hole National Battlefield",
     "latitude": 45.64647324,
     "longitude": -113.6458443,
-    "forecast": "A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms. Mostly cloudy. Low around 44, with temperatures rising to around 47 overnight. West southwest wind around 5 mph. Chance of precipitation is 30%.",
+    "forecast": "A chance of rain showers. Mostly cloudy. Low around 44, with temperatures rising to around 47 overnight. West southwest wind around 6 mph. Chance of precipitation is 30%.",
     "temperature": "44\u00b0F",
-    "wind": "5 mph WSW"
+    "wind": "6 mph WSW"
   },
   {
     "name": "Big South Fork National River & Recreation Area",
@@ -315,7 +315,7 @@
     "name": "Big Thicket National Preserve",
     "latitude": 30.457983431,
     "longitude": -94.386742115,
-    "forecast": "Mostly clear, with a low around 73. South wind around 0 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Mostly clear, with a low around 73. Wind around 0 mph. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "73\u00b0F",
     "wind": "0 mph "
   },
@@ -323,15 +323,15 @@
     "name": "Bighorn Canyon National Recreation Area",
     "latitude": 45.13154227,
     "longitude": -108.1443943,
-    "forecast": "A slight chance of rain showers. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. South wind around 8 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of rain showers after midnight. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. South southeast wind around 8 mph. Chance of precipitation is 20%.",
     "temperature": "61\u00b0F",
-    "wind": "8 mph S"
+    "wind": "8 mph SSE"
   },
   {
     "name": "Birmingham Civil Rights National Monument",
     "latitude": 33.5154266357,
     "longitude": -86.814666748,
-    "forecast": "Patchy fog after 2am. Partly cloudy, with a low around 71. Northeast wind 0 to 5 mph.",
+    "forecast": "Patchy fog after 2am. Mostly clear, with a low around 71. Northeast wind 0 to 5 mph.",
     "temperature": "71\u00b0F",
     "wind": "0 to 5 mph NE"
   },
@@ -345,25 +345,25 @@
     "name": "Black Canyon Of The Gunnison National Park",
     "latitude": 38.57779869,
     "longitude": -107.7242756,
-    "forecast": "Isolated showers and thunderstorms before 3am. Mostly cloudy, with a low around 60. East southeast wind around 10 mph. Chance of precipitation is 20%.",
+    "forecast": "Mostly cloudy, with a low around 60. South southeast wind 5 to 10 mph.",
     "temperature": "60\u00b0F",
-    "wind": "10 mph ESE"
+    "wind": "5 to 10 mph SSE"
   },
   {
     "name": "Blackstone River Valley National Historical Park",
     "latitude": 41.8775792792,
     "longitude": -71.382433945,
-    "forecast": "Partly cloudy, with a low around 59. Northwest wind around 6 mph.",
+    "forecast": "Partly cloudy, with a low around 59. North wind around 6 mph.",
     "temperature": "59\u00b0F",
-    "wind": "6 mph NW"
+    "wind": "6 mph N"
   },
   {
     "name": "Blackwell School National Historic Site",
     "latitude": 30.3057966497568,
     "longitude": -104.022553112857,
-    "forecast": "Mostly clear, with a low around 61. Northeast wind 0 to 10 mph.",
+    "forecast": "Mostly clear, with a low around 61. Northeast wind 0 to 5 mph.",
     "temperature": "61\u00b0F",
-    "wind": "0 to 10 mph NE"
+    "wind": "0 to 5 mph NE"
   },
   {
     "name": "Blue Ridge Parkway",
@@ -377,9 +377,9 @@
     "name": "Bluestone National Scenic River",
     "latitude": 37.56577087,
     "longitude": -80.98366657,
-    "forecast": "Patchy fog after 5am. Mostly clear, with a low around 60. Northeast wind around 2 mph.",
+    "forecast": "Patchy fog after 5am. Mostly clear, with a low around 60. East wind around 1 mph.",
     "temperature": "60\u00b0F",
-    "wind": "2 mph NE"
+    "wind": "1 mph E"
   },
   {
     "name": "Booker T Washington National Monument",
@@ -393,25 +393,25 @@
     "name": "Boston African American National Historic Site",
     "latitude": 42.35908295,
     "longitude": -71.06764181,
-    "forecast": "Partly cloudy, with a low around 61. West wind around 7 mph.",
+    "forecast": "Partly cloudy, with a low around 61. Northwest wind around 7 mph.",
     "temperature": "61\u00b0F",
-    "wind": "7 mph W"
+    "wind": "7 mph NW"
   },
   {
     "name": "Boston Harbor Islands National Recreation Area",
     "latitude": 42.30905526,
     "longitude": -70.93941138,
-    "forecast": "Mostly cloudy, with a low around 64. Northwest wind 8 to 13 mph.",
+    "forecast": "Partly cloudy, with a low around 64. Northwest wind around 13 mph.",
     "temperature": "64\u00b0F",
-    "wind": "8 to 13 mph NW"
+    "wind": "13 mph NW"
   },
   {
     "name": "Boston National Historical Park",
     "latitude": 42.36957407,
     "longitude": -71.05536763,
-    "forecast": "Partly cloudy, with a low around 61. West wind around 7 mph.",
+    "forecast": "Partly cloudy, with a low around 61. Northwest wind around 7 mph.",
     "temperature": "61\u00b0F",
-    "wind": "7 mph W"
+    "wind": "7 mph NW"
   },
   {
     "name": "Brices Cross Roads National Battlefield Site",
@@ -425,7 +425,7 @@
     "name": "Brown v. Board of Education National Historical Park",
     "latitude": 39.03787665,
     "longitude": -95.67614437,
-    "forecast": "Mostly clear, with a low around 70. Southeast wind 5 to 10 mph.",
+    "forecast": "Partly cloudy, with a low around 70. Southeast wind 5 to 10 mph, with gusts as high as 20 mph.",
     "temperature": "70\u00b0F",
     "wind": "5 to 10 mph SE"
   },
@@ -433,9 +433,9 @@
     "name": "Bryce Canyon National Park",
     "latitude": 37.58399144,
     "longitude": -112.1826689,
-    "forecast": "Isolated showers and thunderstorms. Mostly cloudy. Low around 56, with temperatures rising to around 58 overnight. West southwest wind 5 to 10 mph. Chance of precipitation is 20%.",
+    "forecast": "Isolated showers and thunderstorms after 3am. Partly cloudy. Low around 56, with temperatures rising to around 58 overnight. West southwest wind around 6 mph.",
     "temperature": "56\u00b0F",
-    "wind": "5 to 10 mph WSW"
+    "wind": "6 mph WSW"
   },
   {
     "name": "Buck Island Reef National Monument",
@@ -447,7 +447,7 @@
     "name": "Buffalo National River",
     "latitude": 36.04116481,
     "longitude": -92.90761584,
-    "forecast": "Clear, with a low around 63. East southeast wind around 0 mph.",
+    "forecast": "Mostly clear, with a low around 63. East southeast wind around 0 mph.",
     "temperature": "63\u00b0F",
     "wind": "0 mph "
   },
@@ -455,7 +455,7 @@
     "name": "Butterfield Overland National Historic Trail",
     "latitude": 32.2768237589,
     "longitude": -106.796583304,
-    "forecast": "A slight chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 70. Southeast wind around 3 mph. Chance of precipitation is 20%.",
+    "forecast": "Mostly clear, with a low around 70. Southeast wind around 3 mph.",
     "temperature": "70\u00b0F",
     "wind": "3 mph SE"
   },
@@ -463,17 +463,17 @@
     "name": "Cabrillo National Monument",
     "latitude": 32.6722503,
     "longitude": -117.2415985,
-    "forecast": "Patchy fog after 5am. Partly cloudy, with a low around 73. Southwest wind 0 to 5 mph.",
+    "forecast": "Patchy fog after 5am. Partly cloudy, with a low around 73. Northwest wind around 0 mph.",
     "temperature": "73\u00b0F",
-    "wind": "0 to 5 mph SW"
+    "wind": "0 mph "
   },
   {
     "name": "California National Historic Trail",
     "latitude": 42.3999643979,
     "longitude": -108.702415369,
-    "forecast": "Scattered showers and thunderstorms before 4am. Mostly cloudy, with a low around 55. West southwest wind 7 to 13 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.",
+    "forecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 55. West southwest wind 8 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "55\u00b0F",
-    "wind": "7 to 13 mph WSW"
+    "wind": "8 to 12 mph WSW"
   },
   {
     "name": "Camp Nelson National Monument",
@@ -487,9 +487,9 @@
     "name": "Canaveral National Seashore",
     "latitude": 28.78637529,
     "longitude": -80.75419576,
-    "forecast": "A slight chance of showers and thunderstorms before midnight. Partly cloudy, with a low around 79. South southeast wind 5 to 10 mph. Chance of precipitation is 20%.",
+    "forecast": "Partly cloudy, with a low around 79. South southeast wind around 5 mph.",
     "temperature": "79\u00b0F",
-    "wind": "5 to 10 mph SSE"
+    "wind": "5 mph SSE"
   },
   {
     "name": "Cane River Creole National Historical Park",
@@ -503,25 +503,25 @@
     "name": "Canyon de Chelly National Monument",
     "latitude": 36.14319567,
     "longitude": -109.3388303,
-    "forecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 61. South wind 7 to 14 mph, with gusts as high as 29 mph. Chance of precipitation is 20%.",
+    "forecast": "A chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 61. South wind 5 to 8 mph. Chance of precipitation is 30%.",
     "temperature": "61\u00b0F",
-    "wind": "7 to 14 mph S"
+    "wind": "5 to 8 mph S"
   },
   {
     "name": "Canyonlands National Park",
     "latitude": 38.24555783,
     "longitude": -109.8801624,
-    "forecast": "Mostly cloudy, with a low around 72. South southwest wind 5 to 10 mph.",
-    "temperature": "72\u00b0F",
-    "wind": "5 to 10 mph SSW"
+    "forecast": "Mostly cloudy, with a low around 71. Southeast wind around 5 mph.",
+    "temperature": "71\u00b0F",
+    "wind": "5 mph SE"
   },
   {
     "name": "Cape Cod National Seashore",
     "latitude": 41.92381465,
     "longitude": -70.04319832,
-    "forecast": "Mostly cloudy, with a low around 66. Northwest wind 6 to 14 mph.",
+    "forecast": "Mostly cloudy, with a low around 66. North wind 8 to 14 mph.",
     "temperature": "66\u00b0F",
-    "wind": "6 to 14 mph NW"
+    "wind": "8 to 14 mph N"
   },
   {
     "name": "Cape Hatteras National Seashore",
@@ -533,17 +533,17 @@
     "name": "Cape Henry Memorial Part of Colonial National Historical Park",
     "latitude": 36.9278094,
     "longitude": -76.0088219,
-    "forecast": "A slight chance of showers and thunderstorms before 4am. Mostly cloudy, with a low around 77. Northwest wind 3 to 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "77\u00b0F",
-    "wind": "3 to 8 mph NW"
+    "forecast": "Mostly cloudy, with a low around 75. North wind 6 to 12 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "75\u00b0F",
+    "wind": "6 to 12 mph N"
   },
   {
     "name": "Cape Krusenstern National Monument",
     "latitude": 67.41499986,
     "longitude": -163.5037786,
-    "forecast": "Mostly clear, with a low around 39. Northwest wind 5 to 20 mph.",
+    "forecast": "Partly cloudy, with a low around 39. Northwest wind 5 to 15 mph.",
     "temperature": "39\u00b0F",
-    "wind": "5 to 20 mph NW"
+    "wind": "5 to 15 mph NW"
   },
   {
     "name": "Cape Lookout National Seashore",
@@ -573,9 +573,9 @@
     "name": "Captain John Smith Chesapeake National Historic Trail",
     "latitude": 38.971601,
     "longitude": -76.483355,
-    "forecast": "Mostly clear, with a low around 66. Northeast wind 2 to 9 mph.",
+    "forecast": "Mostly clear, with a low around 66. Northeast wind 3 to 9 mph.",
     "temperature": "66\u00b0F",
-    "wind": "2 to 9 mph NE"
+    "wind": "3 to 9 mph NE"
   },
   {
     "name": "Capulin Volcano National Monument",
@@ -613,9 +613,9 @@
     "name": "Carter G. Woodson Home National Historic Site",
     "latitude": 38.91089286,
     "longitude": -77.02431104,
-    "forecast": "Partly cloudy, with a low around 66. Northeast wind 1 to 7 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Partly cloudy, with a low around 66. North wind 1 to 7 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 7 mph NE"
+    "wind": "1 to 7 mph N"
   },
   {
     "name": "Casa Grande Ruins National Monument",
@@ -629,17 +629,17 @@
     "name": "Castillo de San Marcos National Monument",
     "latitude": 29.89785701,
     "longitude": -81.31217173,
-    "forecast": "A chance of showers and thunderstorms before 10pm. Mostly cloudy, with a low around 76. South wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "temperature": "76\u00b0F",
-    "wind": "6 mph S"
+    "forecast": "Mostly cloudy, with a low around 75. South wind around 5 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "75\u00b0F",
+    "wind": "5 mph S"
   },
   {
     "name": "Castle Clinton National Monument",
     "latitude": 40.70347795,
     "longitude": -74.01680558,
-    "forecast": "Mostly clear. Low around 66, with temperatures rising to around 68 overnight. North wind around 12 mph.",
+    "forecast": "Mostly clear. Low around 66, with temperatures rising to around 68 overnight. North wind 5 to 12 mph.",
     "temperature": "66\u00b0F",
-    "wind": "12 mph N"
+    "wind": "5 to 12 mph N"
   },
   {
     "name": "Castle Mountains National Monument",
@@ -653,7 +653,7 @@
     "name": "Catoctin Mountain Park",
     "latitude": 39.65068457,
     "longitude": -77.46417665,
-    "forecast": "Mostly clear, with a low around 59. Northeast wind around 9 mph.",
+    "forecast": "Partly cloudy, with a low around 59. Northeast wind around 9 mph.",
     "temperature": "59\u00b0F",
     "wind": "9 mph NE"
   },
@@ -685,7 +685,7 @@
     "name": "Chamizal National Memorial",
     "latitude": 31.76729634,
     "longitude": -106.4544011,
-    "forecast": "Partly cloudy, with a low around 77. East southeast wind around 7 mph.",
+    "forecast": "Mostly clear, with a low around 77. East southeast wind around 7 mph.",
     "temperature": "77\u00b0F",
     "wind": "7 mph ESE"
   },
@@ -707,9 +707,9 @@
     "name": "Charles Young Buffalo Soldiers National Monument",
     "latitude": 39.70817829,
     "longitude": -83.89328575,
-    "forecast": "Mostly clear, with a low around 58. Northeast wind around 7 mph.",
+    "forecast": "Clear, with a low around 58. East wind around 6 mph.",
     "temperature": "58\u00b0F",
-    "wind": "7 mph NE"
+    "wind": "6 mph E"
   },
   {
     "name": "Chattahoochee River National Recreation Area",
@@ -723,17 +723,17 @@
     "name": "Chesapeake & Ohio Canal National Historical Park",
     "latitude": 39.000283692,
     "longitude": -77.2481399539,
-    "forecast": "Mostly clear, with a low around 63. North wind 1 to 5 mph.",
+    "forecast": "Mostly clear, with a low around 63. North wind around 5 mph.",
     "temperature": "63\u00b0F",
-    "wind": "1 to 5 mph N"
+    "wind": "5 mph N"
   },
   {
     "name": "Chesapeake Bay",
     "latitude": 38.971601,
     "longitude": -76.483355,
-    "forecast": "Mostly clear, with a low around 66. Northeast wind 2 to 9 mph.",
+    "forecast": "Mostly clear, with a low around 66. Northeast wind 3 to 9 mph.",
     "temperature": "66\u00b0F",
-    "wind": "2 to 9 mph NE"
+    "wind": "3 to 9 mph NE"
   },
   {
     "name": "Chickamauga & Chattanooga National Military Park",
@@ -779,15 +779,15 @@
     "name": "Civil War Defenses of Washington",
     "latitude": 38.9644,
     "longitude": -77.0292,
-    "forecast": "Mostly clear, with a low around 65. Northeast wind 2 to 7 mph.",
+    "forecast": "Mostly clear, with a low around 65. Northeast wind 3 to 7 mph.",
     "temperature": "65\u00b0F",
-    "wind": "2 to 7 mph NE"
+    "wind": "3 to 7 mph NE"
   },
   {
     "name": "Clara Barton National Historic Site",
     "latitude": 38.96762882,
     "longitude": -77.14009689,
-    "forecast": "Mostly clear, with a low around 64. Northeast wind 1 to 6 mph.",
+    "forecast": "Partly cloudy, with a low around 64. Northeast wind 1 to 6 mph.",
     "temperature": "64\u00b0F",
     "wind": "1 to 6 mph NE"
   },
@@ -795,25 +795,25 @@
     "name": "Colonial National Historical Park",
     "latitude": 37.22824435,
     "longitude": -76.61998123,
-    "forecast": "Mostly cloudy, with a low around 71. North wind around 3 mph. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "71\u00b0F",
-    "wind": "3 mph N"
+    "forecast": "Mostly cloudy, with a low around 72. North wind around 5 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "72\u00b0F",
+    "wind": "5 mph N"
   },
   {
     "name": "Colorado National Monument",
     "latitude": 39.05045016,
     "longitude": -108.6920709,
-    "forecast": "Isolated showers and thunderstorms before 9pm. Mostly cloudy, with a low around 71. South southwest wind around 10 mph.",
-    "temperature": "71\u00b0F",
+    "forecast": "A slight chance of rain showers before 11pm. Mostly cloudy, with a low around 70. South southwest wind around 10 mph. Chance of precipitation is 20%.",
+    "temperature": "70\u00b0F",
     "wind": "10 mph SSW"
   },
   {
     "name": "Coltsville National Historical Park",
     "latitude": 42.4677505493,
     "longitude": -73.203666687,
-    "forecast": "Mostly clear, with a low around 50. Northwest wind 1 to 6 mph.",
+    "forecast": "Mostly clear, with a low around 50. Northwest wind 1 to 5 mph.",
     "temperature": "50\u00b0F",
-    "wind": "1 to 6 mph NW"
+    "wind": "1 to 5 mph NW"
   },
   {
     "name": "Congaree National Park",
@@ -867,25 +867,25 @@
     "name": "Cumberland Gap National Historical Park",
     "latitude": 36.62503076,
     "longitude": -83.6114083,
-    "forecast": "Mostly clear, with a low around 64. Northeast wind around 5 mph.",
+    "forecast": "Mostly clear, with a low around 64. East wind around 5 mph.",
     "temperature": "64\u00b0F",
-    "wind": "5 mph NE"
+    "wind": "5 mph E"
   },
   {
     "name": "Cumberland Island National Seashore",
     "latitude": 30.85857484,
     "longitude": -81.45253575,
-    "forecast": "A chance of showers and thunderstorms. Mostly cloudy. Low around 75, with temperatures rising to around 76 overnight. South wind around 2 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A slight chance of rain showers. Mostly cloudy, with a low around 75. Southeast wind around 3 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "75\u00b0F",
-    "wind": "2 mph S"
+    "wind": "3 mph SE"
   },
   {
     "name": "Curecanti National Recreation Area",
     "latitude": 38.46584558,
     "longitude": -107.3303371,
-    "forecast": "Isolated showers and thunderstorms before 1am. Mostly cloudy, with a low around 52. Northwest wind 5 to 10 mph. Chance of precipitation is 20%.",
+    "forecast": "Mostly cloudy, with a low around 52. West northwest wind 5 to 10 mph.",
     "temperature": "52\u00b0F",
-    "wind": "5 to 10 mph NW"
+    "wind": "5 to 10 mph WNW"
   },
   {
     "name": "Cuyahoga Valley National Park",
@@ -899,9 +899,9 @@
     "name": "C\u00e9sar E. Ch\u00e1vez National Monument",
     "latitude": 35.22729389,
     "longitude": -118.5615781,
-    "forecast": "Mostly clear, with a low around 69. Southwest wind 0 to 5 mph.",
+    "forecast": "Mostly clear, with a low around 69. South southwest wind around 0 mph.",
     "temperature": "69\u00b0F",
-    "wind": "0 to 5 mph SW"
+    "wind": "0 mph "
   },
   {
     "name": "Dayton Aviation Heritage National Historical Park",
@@ -915,17 +915,17 @@
     "name": "De Soto National Memorial",
     "latitude": 27.52272613,
     "longitude": -82.64335416,
-    "forecast": "Partly cloudy, with a low around 76. East wind around 6 mph.",
+    "forecast": "Partly cloudy, with a low around 76. East southeast wind around 6 mph.",
     "temperature": "76\u00b0F",
-    "wind": "6 mph E"
+    "wind": "6 mph ESE"
   },
   {
     "name": "Death Valley National Park",
     "latitude": 36.48753731,
     "longitude": -117.134395,
-    "forecast": "Mostly cloudy, with a low around 68. Southwest wind 10 to 17 mph, with gusts as high as 23 mph.",
+    "forecast": "Mostly cloudy, with a low around 68. Southwest wind 10 to 15 mph.",
     "temperature": "68\u00b0F",
-    "wind": "10 to 17 mph SW"
+    "wind": "10 to 15 mph SW"
   },
   {
     "name": "Delaware Water Gap National Recreation Area",
@@ -947,7 +947,7 @@
     "name": "Devils Postpile National Monument",
     "latitude": 37.6152564,
     "longitude": -119.0873903,
-    "forecast": "A chance of showers and thunderstorms before 8pm, then a chance of rain. Partly cloudy, with a low around 45. Southwest wind 5 to 10 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A chance of rain. Partly cloudy, with a low around 45. Southwest wind 5 to 10 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "45\u00b0F",
     "wind": "5 to 10 mph SW"
   },
@@ -955,25 +955,25 @@
     "name": "Devils Tower National Monument",
     "latitude": 44.59064655,
     "longitude": -104.7156341,
-    "forecast": "A slight chance of showers and thunderstorms before 3am. Mostly cloudy, with a low around 58. Northwest wind around 3 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms between midnight and 3am. Partly cloudy, with a low around 58. Northwest wind around 1 mph. Chance of precipitation is 20%.",
     "temperature": "58\u00b0F",
-    "wind": "3 mph NW"
+    "wind": "1 mph NW"
   },
   {
     "name": "Dinosaur National Monument",
     "latitude": 40.50739742,
     "longitude": -108.9333714,
-    "forecast": "Isolated showers and thunderstorms before midnight. Mostly cloudy, with a low around 63. South wind 5 to 10 mph.",
+    "forecast": "A slight chance of rain showers between midnight and 1am. Mostly cloudy, with a low around 63. North wind around 5 mph. Chance of precipitation is 20%.",
     "temperature": "63\u00b0F",
-    "wind": "5 to 10 mph S"
+    "wind": "5 mph N"
   },
   {
     "name": "Dry Tortugas National Park",
     "latitude": 24.628741,
     "longitude": -82.87319,
-    "forecast": "A chance of showers and thunderstorms. Partly cloudy, with a low around 83. East wind 5 to 15 mph. Chance of precipitation is 30%.",
+    "forecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 83. East wind 10 to 15 mph. Chance of precipitation is 30%.",
     "temperature": "83\u00b0F",
-    "wind": "5 to 15 mph E"
+    "wind": "10 to 15 mph E"
   },
   {
     "name": "Dwight D. Eisenhower Memorial",
@@ -1003,9 +1003,9 @@
     "name": "Effigy Mounds National Monument",
     "latitude": 43.08095081,
     "longitude": -91.19687517,
-    "forecast": "Mostly cloudy. Low around 63, with temperatures rising to around 65 overnight. South wind 2 to 6 mph.",
+    "forecast": "Partly cloudy, with a low around 63. South wind around 5 mph.",
     "temperature": "63\u00b0F",
-    "wind": "2 to 6 mph S"
+    "wind": "5 mph S"
   },
   {
     "name": "Eisenhower National Historic Site",
@@ -1027,9 +1027,9 @@
     "name": "El Camino Real de los Tejas National Historic Trail",
     "latitude": 30.0922964581,
     "longitude": -97.3397666725,
-    "forecast": "A slight chance of rain showers before 1am. Mostly clear, with a low around 76. South wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "76\u00b0F",
-    "wind": "0 to 5 mph S"
+    "forecast": "Partly cloudy, with a low around 75. South wind around 0 mph.",
+    "temperature": "75\u00b0F",
+    "wind": "0 mph "
   },
   {
     "name": "El Malpais National Monument",
@@ -1107,9 +1107,9 @@
     "name": "First Ladies National Historic Site",
     "latitude": 40.79689857,
     "longitude": -81.37579869,
-    "forecast": "Mostly clear, with a low around 54. Northeast wind 2 to 6 mph.",
+    "forecast": "Mostly clear, with a low around 54. Northeast wind 2 to 7 mph.",
     "temperature": "54\u00b0F",
-    "wind": "2 to 6 mph NE"
+    "wind": "2 to 7 mph NE"
   },
   {
     "name": "First State National Historical Park",
@@ -1123,15 +1123,15 @@
     "name": "Flight 93 National Memorial",
     "latitude": 40.06061476,
     "longitude": -78.89456905,
-    "forecast": "Patchy fog after 1am. Mostly clear, with a low around 52. Northeast wind around 2 mph.",
+    "forecast": "Patchy fog after 1am. Mostly clear, with a low around 52. East wind around 2 mph.",
     "temperature": "52\u00b0F",
-    "wind": "2 mph NE"
+    "wind": "2 mph E"
   },
   {
     "name": "Florissant Fossil Beds National Monument",
     "latitude": 38.91260586,
     "longitude": -105.2803396,
-    "forecast": "A slight chance of showers and thunderstorms before 9pm. Mostly cloudy, with a low around 50. South wind around 5 mph.",
+    "forecast": "Partly cloudy, with a low around 50. South wind around 5 mph.",
     "temperature": "50\u00b0F",
     "wind": "5 mph S"
   },
@@ -1147,7 +1147,7 @@
     "name": "Fort Bowie National Historic Site",
     "latitude": 32.14925942,
     "longitude": -109.451132,
-    "forecast": "A slight chance of showers and thunderstorms before 11pm. Partly cloudy, with a low around 66. Northeast wind around 5 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms before 11pm. Partly cloudy, with a low around 66. Northeast wind around 5 mph.",
     "temperature": "66\u00b0F",
     "wind": "5 mph NE"
   },
@@ -1179,17 +1179,17 @@
     "name": "Fort Foote Park",
     "latitude": 38.76901785,
     "longitude": -77.02812387,
-    "forecast": "Partly cloudy, with a low around 66. North wind 1 to 6 mph.",
+    "forecast": "Partly cloudy, with a low around 66. North wind 2 to 6 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 6 mph N"
+    "wind": "2 to 6 mph N"
   },
   {
     "name": "Fort Frederica National Monument",
     "latitude": 31.2214699,
     "longitude": -81.39452014,
-    "forecast": "A chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 75. South wind around 1 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible.",
-    "temperature": "75\u00b0F",
-    "wind": "1 mph S"
+    "forecast": "A slight chance of rain showers before 1am, then a chance of showers and thunderstorms. Mostly cloudy. Low around 73, with temperatures rising to around 74 overnight. Southeast wind around 1 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "73\u00b0F",
+    "wind": "1 mph SE"
   },
   {
     "name": "Fort Laramie National Historic Site",
@@ -1203,17 +1203,17 @@
     "name": "Fort Larned National Historic Site",
     "latitude": 38.18047491,
     "longitude": -99.21836664,
-    "forecast": "Partly cloudy, with a low around 73. South southeast wind around 16 mph.",
+    "forecast": "Mostly cloudy, with a low around 73. South wind around 16 mph.",
     "temperature": "73\u00b0F",
-    "wind": "16 mph SSE"
+    "wind": "16 mph S"
   },
   {
     "name": "Fort Matanzas National Monument",
     "latitude": 29.7121489,
     "longitude": -81.23567535,
-    "forecast": "Mostly cloudy. Low around 76, with temperatures rising to around 78 overnight. South wind around 5 mph. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "76\u00b0F",
-    "wind": "5 mph S"
+    "forecast": "Mostly cloudy, with a low around 75. South wind around 3 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "75\u00b0F",
+    "wind": "3 mph S"
   },
   {
     "name": "Fort McHenry National Monument and Historic Shrine",
@@ -1227,25 +1227,25 @@
     "name": "Fort Monroe National Monument",
     "latitude": 37.01733343,
     "longitude": -76.30103195,
-    "forecast": "A slight chance of showers and thunderstorms before 10pm. Mostly cloudy, with a low around 77. Northwest wind 3 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "77\u00b0F",
-    "wind": "3 to 9 mph NW"
+    "forecast": "Mostly cloudy, with a low around 74. North wind 6 to 9 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "74\u00b0F",
+    "wind": "6 to 9 mph N"
   },
   {
     "name": "Fort Necessity National Battlefield",
     "latitude": 39.81306048,
     "longitude": -79.59033344,
-    "forecast": "Areas of fog after 11pm. Mostly clear, with a low around 53. Wind around 0 mph.",
+    "forecast": "Areas of fog. Mostly clear, with a low around 53. Northeast wind around 1 mph.",
     "temperature": "53\u00b0F",
-    "wind": "0 mph "
+    "wind": "1 mph NE"
   },
   {
     "name": "Fort Point National Historic Site",
     "latitude": 37.80837439,
     "longitude": -122.473747,
-    "forecast": "Partly cloudy, with a low around 56. West southwest wind around 16 mph.",
+    "forecast": "Partly cloudy, with a low around 56. West southwest wind around 15 mph, with gusts as high as 18 mph.",
     "temperature": "56\u00b0F",
-    "wind": "16 mph WSW"
+    "wind": "15 mph WSW"
   },
   {
     "name": "Fort Pulaski National Monument",
@@ -1267,7 +1267,7 @@
     "name": "Fort Scott National Historic Site",
     "latitude": 37.84358849,
     "longitude": -94.70429174,
-    "forecast": "Mostly clear, with a low around 68. Southeast wind around 6 mph.",
+    "forecast": "Mostly clear. Low around 68, with temperatures rising to around 70 overnight. Southeast wind around 6 mph.",
     "temperature": "68\u00b0F",
     "wind": "6 mph SE"
   },
@@ -1307,17 +1307,17 @@
     "name": "Fort Union Trading Post National Historic Site",
     "latitude": 48.00075828,
     "longitude": -104.0375238,
-    "forecast": "A slight chance of rain showers between 10pm and 11pm. Mostly cloudy. Low around 63, with temperatures rising to around 65 overnight. Northeast wind around 5 mph.",
+    "forecast": "Mostly cloudy. Low around 63, with temperatures rising to around 65 overnight. North wind 2 to 8 mph, with gusts as high as 22 mph.",
     "temperature": "63\u00b0F",
-    "wind": "5 mph NE"
+    "wind": "2 to 8 mph N"
   },
   {
     "name": "Fort Vancouver National Historic Site",
     "latitude": 45.62234841,
     "longitude": -122.6617043,
-    "forecast": "A slight chance of rain showers after 5am. Partly cloudy. Low around 55, with temperatures rising to around 57 overnight. West wind 0 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of rain showers after 5am. Partly cloudy. Low around 55, with temperatures rising to around 57 overnight. West wind 0 to 9 mph. Chance of precipitation is 20%.",
     "temperature": "55\u00b0F",
-    "wind": "0 to 10 mph W"
+    "wind": "0 to 9 mph W"
   },
   {
     "name": "Fort Washington Park",
@@ -1331,9 +1331,9 @@
     "name": "Fossil Butte National Monument",
     "latitude": 41.85635223,
     "longitude": -110.7624754,
-    "forecast": "A chance of showers and thunderstorms before 3am, then isolated showers and thunderstorms between 3am and 5am. Mostly cloudy, with a low around 50. West southwest wind 5 to 8 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "forecast": "Showers and thunderstorms likely. Mostly cloudy, with a low around 50. West southwest wind 3 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "temperature": "50\u00b0F",
-    "wind": "5 to 8 mph WSW"
+    "wind": "3 to 7 mph WSW"
   },
   {
     "name": "Frances Perkins National Monument",
@@ -1363,23 +1363,23 @@
     "name": "Frederick Law Olmsted National Historic Site",
     "latitude": 42.32424266,
     "longitude": -71.13202567,
-    "forecast": "Partly cloudy, with a low around 60. Northwest wind 5 to 8 mph.",
+    "forecast": "Partly cloudy, with a low around 60. Northwest wind around 8 mph.",
     "temperature": "60\u00b0F",
-    "wind": "5 to 8 mph NW"
+    "wind": "8 mph NW"
   },
   {
     "name": "Fredericksburg & Spotsylvania National Military Park",
     "latitude": 38.29378,
     "longitude": -77.46734,
-    "forecast": "Partly cloudy, with a low around 66. North wind 0 to 3 mph.",
+    "forecast": "Mostly cloudy, with a low around 66. North wind around 3 mph.",
     "temperature": "66\u00b0F",
-    "wind": "0 to 3 mph N"
+    "wind": "3 mph N"
   },
   {
     "name": "Freedom Riders National Monument",
     "latitude": 33.635269165,
     "longitude": -85.9064331055,
-    "forecast": "Patchy fog after 2am. Partly cloudy, with a low around 69. East wind around 0 mph.",
+    "forecast": "Patchy fog after 2am. Mostly clear, with a low around 69. Southeast wind around 0 mph.",
     "temperature": "69\u00b0F",
     "wind": "0 mph "
   },
@@ -1387,25 +1387,25 @@
     "name": "Friendship Hill National Historic Site",
     "latitude": 39.77543423,
     "longitude": -79.92504169,
-    "forecast": "Areas of fog after 2am. Mostly clear, with a low around 56. North wind around 2 mph.",
+    "forecast": "Patchy fog after 4am. Clear, with a low around 56. North wind around 1 mph.",
     "temperature": "56\u00b0F",
-    "wind": "2 mph N"
+    "wind": "1 mph N"
   },
   {
     "name": "Gates Of The Arctic National Park & Preserve",
     "latitude": 67.75961636,
     "longitude": -153.2917758,
-    "forecast": "Rain and snow showers before 4am. Cloudy, with a low around 27. Northeast wind 5 to 10 mph. Chance of precipitation is 90%. Little or no snow accumulation expected.",
+    "forecast": "Rain and snow showers before 4am. Mostly cloudy, with a low around 27. North wind 5 to 10 mph. Chance of precipitation is 90%. Little or no snow accumulation expected.",
     "temperature": "27\u00b0F",
-    "wind": "5 to 10 mph NE"
+    "wind": "5 to 10 mph N"
   },
   {
     "name": "Gateway Arch National Park",
     "latitude": 38.6258069,
     "longitude": -90.1892508,
-    "forecast": "Mostly clear, with a low around 64. East wind 1 to 5 mph.",
+    "forecast": "Mostly clear, with a low around 64. Southeast wind around 2 mph.",
     "temperature": "64\u00b0F",
-    "wind": "1 to 5 mph E"
+    "wind": "2 mph SE"
   },
   {
     "name": "Gateway National Recreation Area",
@@ -1419,55 +1419,55 @@
     "name": "Gauley River National Recreation Area",
     "latitude": 38.20614947,
     "longitude": -81.00420836,
-    "forecast": "Patchy fog between 3am and 4am. Mostly clear. Low around 55, with temperatures rising to around 60 overnight. Wind around 0 mph.",
-    "temperature": "55\u00b0F",
+    "forecast": "Patchy fog after 3am. Mostly clear, with a low around 62. Wind around 0 mph.",
+    "temperature": "62\u00b0F",
     "wind": "0 mph "
   },
   {
     "name": "General Grant National Memorial",
     "latitude": 40.81332817,
     "longitude": -73.96331542,
-    "forecast": "Mostly clear, with a low around 64. North wind around 8 mph.",
+    "forecast": "Mostly clear, with a low around 64. North wind 3 to 8 mph.",
     "temperature": "64\u00b0F",
-    "wind": "8 mph N"
+    "wind": "3 to 8 mph N"
   },
   {
     "name": "George Rogers Clark National Historical Park",
     "latitude": 38.67912659,
     "longitude": -87.53545212,
-    "forecast": "Mostly clear, with a low around 62. East northeast wind around 3 mph.",
+    "forecast": "Mostly clear, with a low around 62. East wind around 2 mph.",
     "temperature": "62\u00b0F",
-    "wind": "3 mph ENE"
+    "wind": "2 mph E"
   },
   {
     "name": "George Washington Birthplace National Monument",
     "latitude": 38.19362603,
     "longitude": -76.92079458,
-    "forecast": "Partly cloudy, with a low around 70. Northeast wind 2 to 6 mph.",
-    "temperature": "70\u00b0F",
-    "wind": "2 to 6 mph NE"
+    "forecast": "Mostly cloudy, with a low around 71. North wind 2 to 7 mph.",
+    "temperature": "71\u00b0F",
+    "wind": "2 to 7 mph N"
   },
   {
     "name": "George Washington Carver National Monument",
     "latitude": 36.9871322,
     "longitude": -94.35522737,
-    "forecast": "Mostly clear, with a low around 67. East wind around 6 mph.",
+    "forecast": "Mostly clear. Low around 67, with temperatures rising to around 69 overnight. Southeast wind around 6 mph.",
     "temperature": "67\u00b0F",
-    "wind": "6 mph E"
+    "wind": "6 mph SE"
   },
   {
     "name": "George Washington Memorial Parkway",
     "latitude": 38.9628,
     "longitude": -77.1495,
-    "forecast": "Partly cloudy, with a low around 64. North wind 1 to 5 mph.",
+    "forecast": "Mostly clear, with a low around 64. North wind around 5 mph.",
     "temperature": "64\u00b0F",
-    "wind": "1 to 5 mph N"
+    "wind": "5 mph N"
   },
   {
     "name": "Gettysburg National Military Park",
     "latitude": 39.81557366,
     "longitude": -77.23246758,
-    "forecast": "Patchy fog between 11pm and midnight. Mostly clear, with a low around 58. North wind around 3 mph.",
+    "forecast": "Mostly clear, with a low around 58. North wind around 3 mph.",
     "temperature": "58\u00b0F",
     "wind": "3 mph N"
   },
@@ -1499,9 +1499,9 @@
     "name": "Glen Canyon National Recreation Area",
     "latitude": 36.9357464677,
     "longitude": -111.485594268,
-    "forecast": "A slight chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 74. Southwest wind around 7 mph. Chance of precipitation is 20%.",
-    "temperature": "74\u00b0F",
-    "wind": "7 mph SW"
+    "forecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 75. South wind around 7 mph. Chance of precipitation is 20%.",
+    "temperature": "75\u00b0F",
+    "wind": "7 mph S"
   },
   {
     "name": "Glen Echo Park",
@@ -1515,9 +1515,9 @@
     "name": "Gloria Dei Church National Historic Site",
     "latitude": 39.93435005,
     "longitude": -75.14398924,
-    "forecast": "Mostly clear, with a low around 63. North wind around 5 mph.",
+    "forecast": "Mostly clear, with a low around 63. North wind 0 to 5 mph.",
     "temperature": "63\u00b0F",
-    "wind": "5 mph N"
+    "wind": "0 to 5 mph N"
   },
   {
     "name": "Golden Gate National Recreation Area",
@@ -1539,23 +1539,23 @@
     "name": "Governors Island National Monument",
     "latitude": 40.69164233,
     "longitude": -74.01670765,
-    "forecast": "Mostly clear. Low around 66, with temperatures rising to around 68 overnight. North wind 5 to 12 mph.",
+    "forecast": "Mostly clear. Low around 66, with temperatures rising to around 68 overnight. North wind around 12 mph.",
     "temperature": "66\u00b0F",
-    "wind": "5 to 12 mph N"
+    "wind": "12 mph N"
   },
   {
     "name": "Grand Canyon National Park",
     "latitude": 36.0001165336,
     "longitude": -112.121516363,
-    "forecast": "A chance of showers and thunderstorms before 2am. Partly cloudy, with a low around 53. South wind 3 to 7 mph. Chance of precipitation is 30%.",
-    "temperature": "53\u00b0F",
-    "wind": "3 to 7 mph S"
+    "forecast": "A chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 55. South wind 1 to 5 mph. Chance of precipitation is 30%.",
+    "temperature": "55\u00b0F",
+    "wind": "1 to 5 mph S"
   },
   {
     "name": "Grand Canyon-Parashant National Monument",
     "latitude": 36.41535465,
     "longitude": -113.6682797,
-    "forecast": "Scattered showers and thunderstorms before 8pm, then isolated showers and thunderstorms. Partly cloudy, with a low around 63. South southwest wind around 10 mph. Chance of precipitation is 30%.",
+    "forecast": "Isolated showers and thunderstorms. Partly cloudy, with a low around 63. South southwest wind around 10 mph. Chance of precipitation is 20%.",
     "temperature": "63\u00b0F",
     "wind": "10 mph SSW"
   },
@@ -1563,7 +1563,7 @@
     "name": "Grand Portage National Monument",
     "latitude": 47.99294217,
     "longitude": -89.75573031,
-    "forecast": "Patchy fog between 11pm and 2am. Partly cloudy, with a low around 49. West wind around 0 mph.",
+    "forecast": "Patchy fog before 2am. Partly cloudy, with a low around 49. West wind around 0 mph.",
     "temperature": "49\u00b0F",
     "wind": "0 mph "
   },
@@ -1571,73 +1571,73 @@
     "name": "Grand Teton National Park",
     "latitude": 43.81853565,
     "longitude": -110.7054666,
-    "forecast": "Scattered showers and thunderstorms before 9pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 45. South southeast wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "forecast": "Showers and thunderstorms likely. Mostly cloudy, with a low around 45. South wind around 3 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "temperature": "45\u00b0F",
-    "wind": "5 mph SSE"
+    "wind": "3 mph S"
   },
   {
     "name": "Grant-Kohrs Ranch National Historic Site",
     "latitude": 46.41358923,
     "longitude": -112.7467024,
-    "forecast": "Patchy smoke and a chance of showers and thunderstorms before 9pm, then a chance of rain and patchy smoke. Mostly cloudy, with a low around 47. Southwest wind around 5 mph. Chance of precipitation is 30%.",
+    "forecast": "A chance of rain. Mostly cloudy, with a low around 47. South southwest wind around 5 mph. Chance of precipitation is 30%.",
     "temperature": "47\u00b0F",
-    "wind": "5 mph SW"
+    "wind": "5 mph SSW"
   },
   {
     "name": "Great Basin National Park",
     "latitude": 38.94617378,
     "longitude": -114.2579782,
-    "forecast": "Isolated thunderstorms before 8pm, then scattered showers and thunderstorms between 8pm and 9pm, then isolated showers and thunderstorms between 9pm and 10pm, then a chance of showers and thunderstorms between 10pm and 2am, then isolated showers and thunderstorms between 2am and 5am. Mostly cloudy, with a low around 52. West southwest wind 5 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Isolated showers and thunderstorms before 10pm, then a chance of showers and thunderstorms between 10pm and 2am, then isolated showers and thunderstorms between 2am and 5am. Mostly cloudy, with a low around 52. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "52\u00b0F",
-    "wind": "5 to 15 mph WSW"
+    "wind": "5 to 15 mph SW"
   },
   {
     "name": "Great Egg Harbor River",
     "latitude": 39.3042,
     "longitude": -74.6497,
-    "forecast": "Mostly cloudy, with a low around 66. North wind 0 to 10 mph.",
+    "forecast": "Mostly cloudy, with a low around 66. North wind 5 to 10 mph.",
     "temperature": "66\u00b0F",
-    "wind": "0 to 10 mph N"
+    "wind": "5 to 10 mph N"
   },
   {
     "name": "Great Falls Park",
     "latitude": 38.98776107,
     "longitude": -77.25128326,
-    "forecast": "Mostly clear, with a low around 63. North wind 1 to 5 mph.",
+    "forecast": "Mostly clear, with a low around 63. North wind around 5 mph.",
     "temperature": "63\u00b0F",
-    "wind": "1 to 5 mph N"
+    "wind": "5 mph N"
   },
   {
     "name": "Great Sand Dunes National Park & Preserve",
     "latitude": 37.79256812,
     "longitude": -105.5919572,
-    "forecast": "A slight chance of showers and thunderstorms before 9pm. Mostly cloudy, with a low around 54. Northeast wind around 5 mph.",
+    "forecast": "Mostly cloudy, with a low around 54. East northeast wind around 5 mph.",
     "temperature": "54\u00b0F",
-    "wind": "5 mph NE"
+    "wind": "5 mph ENE"
   },
   {
     "name": "Great Smoky Mountains National Park",
     "latitude": 35.60116374,
     "longitude": -83.50818326,
-    "forecast": "Partly cloudy, with a low around 60. East wind around 5 mph.",
+    "forecast": "Partly cloudy, with a low around 60. Southeast wind around 5 mph.",
     "temperature": "60\u00b0F",
-    "wind": "5 mph E"
+    "wind": "5 mph SE"
   },
   {
     "name": "Green Springs",
     "latitude": 38.037099,
     "longitude": -78.189823,
-    "forecast": "Partly cloudy, with a low around 65. North wind around 3 mph.",
-    "temperature": "65\u00b0F",
-    "wind": "3 mph N"
+    "forecast": "Partly cloudy, with a low around 64. North wind around 5 mph.",
+    "temperature": "64\u00b0F",
+    "wind": "5 mph N"
   },
   {
     "name": "Greenbelt Park",
     "latitude": 38.98328267,
     "longitude": -76.89722133,
-    "forecast": "Mostly clear, with a low around 64. North wind 1 to 6 mph.",
+    "forecast": "Mostly clear, with a low around 64. North wind around 6 mph.",
     "temperature": "64\u00b0F",
-    "wind": "1 to 6 mph N"
+    "wind": "6 mph N"
   },
   {
     "name": "Guadalupe Mountains National Park",
@@ -1651,7 +1651,7 @@
     "name": "Guilford Courthouse National Military Park",
     "latitude": 36.13225478,
     "longitude": -79.8424561,
-    "forecast": "A slight chance of showers and thunderstorms before 2am. Mostly cloudy, with a low around 67. Northeast wind around 2 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A slight chance of rain showers before 2am. Mostly cloudy, with a low around 67. Northeast wind around 2 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "67\u00b0F",
     "wind": "2 mph NE"
   },
@@ -1659,7 +1659,7 @@
     "name": "Gulf Islands National Seashore",
     "latitude": 30.3211,
     "longitude": -87.2304,
-    "forecast": "A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms between 10pm and 1am, then a chance of showers and thunderstorms between 1am and 4am, then showers and thunderstorms likely. Mostly cloudy, with a low around 78. East wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible.",
+    "forecast": "A chance of showers and thunderstorms before 1am, then a chance of showers and thunderstorms between 1am and 4am, then showers and thunderstorms likely. Mostly cloudy, with a low around 78. East wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible.",
     "temperature": "78\u00b0F",
     "wind": "5 to 10 mph E"
   },
@@ -1675,15 +1675,15 @@
     "name": "Haleakal\u0101 National Park",
     "latitude": 20.70693015,
     "longitude": -156.1591775,
-    "forecast": "Scattered rain showers. Partly sunny. High near 80, with temperatures falling to around 71 in the afternoon. East wind around 16 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "80\u00b0F",
-    "wind": "16 mph E"
+    "forecast": "Scattered rain showers. Mostly cloudy, with a low around 56. East northeast wind 5 to 17 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "56\u00b0F",
+    "wind": "5 to 17 mph ENE"
   },
   {
     "name": "Hamilton Grange National Memorial",
     "latitude": 40.81871605,
     "longitude": -73.94878487,
-    "forecast": "A slight chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 64. North wind 3 to 8 mph. Chance of precipitation is 20%.",
+    "forecast": "Mostly clear, with a low around 64. North wind 3 to 8 mph.",
     "temperature": "64\u00b0F",
     "wind": "3 to 8 mph N"
   },
@@ -1715,33 +1715,33 @@
     "name": "Harriet Tubman National Historical Park",
     "latitude": 42.9128920287,
     "longitude": -76.5646715462,
-    "forecast": "Mostly clear, with a low around 51. South wind around 3 mph.",
+    "forecast": "Clear, with a low around 51. West wind around 3 mph.",
     "temperature": "51\u00b0F",
-    "wind": "3 mph S"
+    "wind": "3 mph W"
   },
   {
     "name": "Harriet Tubman Underground Railroad National Historical Park",
     "latitude": 38.4548643511,
     "longitude": -76.1373451376,
-    "forecast": "Partly cloudy, with a low around 65. Northeast wind 2 to 6 mph.",
-    "temperature": "65\u00b0F",
-    "wind": "2 to 6 mph NE"
+    "forecast": "Mostly cloudy, with a low around 66. North wind 2 to 7 mph.",
+    "temperature": "66\u00b0F",
+    "wind": "2 to 7 mph N"
   },
   {
     "name": "Harry S Truman National Historic Site",
     "latitude": 38.92711967,
     "longitude": -94.5162488,
-    "forecast": "Mostly clear, with a low around 69. Southeast wind around 8 mph.",
+    "forecast": "Mostly clear, with a low around 69. Southeast wind around 9 mph.",
     "temperature": "69\u00b0F",
-    "wind": "8 mph SE"
+    "wind": "9 mph SE"
   },
   {
     "name": "Hawai\u02bbi Volcanoes National Park",
     "latitude": 19.3355036,
     "longitude": -155.4700257,
-    "forecast": "Scattered rain showers. Partly sunny, with a high near 71. South wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "71\u00b0F",
-    "wind": "7 mph S"
+    "forecast": "Partly cloudy, with a low around 59. Southwest wind 2 to 6 mph.",
+    "temperature": "59\u00b0F",
+    "wind": "2 to 6 mph SW"
   },
   {
     "name": "Herbert Hoover National Historic Site",
@@ -1755,9 +1755,9 @@
     "name": "Historic Jamestowne Part of Colonial National Historical Park",
     "latitude": 37.2065,
     "longitude": -76.7538,
-    "forecast": "Mostly cloudy, with a low around 72. Northeast wind around 3 mph. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "72\u00b0F",
-    "wind": "3 mph NE"
+    "forecast": "Mostly cloudy, with a low around 71. North wind around 5 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "71\u00b0F",
+    "wind": "5 mph N"
   },
   {
     "name": "Home Of Franklin D Roosevelt National Historic Site",
@@ -1771,17 +1771,17 @@
     "name": "Homestead National Historical Park",
     "latitude": 40.28802381,
     "longitude": -96.83387781,
-    "forecast": "Partly cloudy, with a low around 73. South wind 12 to 16 mph, with gusts as high as 26 mph.",
+    "forecast": "Mostly cloudy, with a low around 73. South wind 10 to 16 mph, with gusts as high as 26 mph.",
     "temperature": "73\u00b0F",
-    "wind": "12 to 16 mph S"
+    "wind": "10 to 16 mph S"
   },
   {
     "name": "Honouliuli National Historic Site",
     "latitude": 21.38817536,
     "longitude": -158.0574991,
-    "forecast": "Sunny. High near 86, with temperatures falling to around 81 in the afternoon. East northeast wind around 17 mph, with gusts as high as 24 mph.",
-    "temperature": "86\u00b0F",
-    "wind": "17 mph ENE"
+    "forecast": "Mostly clear, with a low around 73. East northeast wind 8 to 17 mph, with gusts as high as 24 mph.",
+    "temperature": "73\u00b0F",
+    "wind": "8 to 17 mph ENE"
   },
   {
     "name": "Hopewell Culture National Historical Park",
@@ -1803,7 +1803,7 @@
     "name": "Horseshoe Bend National Military Park",
     "latitude": 32.97668879,
     "longitude": -85.73413589,
-    "forecast": "Patchy fog after 2am. Partly cloudy, with a low around 71. East wind around 0 mph.",
+    "forecast": "Patchy fog after 2am. Partly cloudy, with a low around 71. East wind around 0 mph. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "71\u00b0F",
     "wind": "0 mph "
   },
@@ -1819,25 +1819,25 @@
     "name": "Hovenweep National Monument",
     "latitude": 37.39134092,
     "longitude": -109.0047977,
-    "forecast": "Isolated showers and thunderstorms. Mostly cloudy, with a low around 70. Northeast wind 5 to 10 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms before 3am. Mostly cloudy, with a low around 70. East wind 5 to 10 mph.",
     "temperature": "70\u00b0F",
-    "wind": "5 to 10 mph NE"
+    "wind": "5 to 10 mph E"
   },
   {
     "name": "Hubbell Trading Post National Historic Site",
     "latitude": 35.70727324,
     "longitude": -109.5599515,
-    "forecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 62. South wind 6 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 20%.",
+    "forecast": "A chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 62. Southeast wind 3 to 7 mph. Chance of precipitation is 30%.",
     "temperature": "62\u00b0F",
-    "wind": "6 to 12 mph S"
+    "wind": "3 to 7 mph SE"
   },
   {
     "name": "Ice Age Floods National Geologic Trail",
     "latitude": 46.5669309008,
     "longitude": -118.992564971,
-    "forecast": "Patchy smoke between 11pm and 5am. Mostly clear. Low around 52, with temperatures rising to around 54 overnight. Southwest wind 3 to 8 mph.",
+    "forecast": "Patchy smoke between 11pm and 5am. Mostly clear. Low around 52, with temperatures rising to around 54 overnight. Southwest wind 5 to 8 mph.",
     "temperature": "52\u00b0F",
-    "wind": "3 to 8 mph SW"
+    "wind": "5 to 8 mph SW"
   },
   {
     "name": "Ice Age National Scenic Trail",
@@ -1867,7 +1867,7 @@
     "name": "Isle Royale National Park",
     "latitude": 48.01145819,
     "longitude": -88.82780657,
-    "forecast": "Mostly cloudy, with a low around 59. Southwest wind around 5 mph.",
+    "forecast": "Partly cloudy, with a low around 59. Southwest wind around 5 mph.",
     "temperature": "59\u00b0F",
     "wind": "5 mph SW"
   },
@@ -1883,7 +1883,7 @@
     "name": "James A Garfield National Historic Site",
     "latitude": 41.66486549,
     "longitude": -81.35086557,
-    "forecast": "Clear, with a low around 57. Southeast wind around 3 mph.",
+    "forecast": "Mostly clear, with a low around 57. Southeast wind around 3 mph.",
     "temperature": "57\u00b0F",
     "wind": "3 mph SE"
   },
@@ -1891,15 +1891,15 @@
     "name": "Jean Lafitte National Historical Park and Preserve",
     "latitude": 29.81739855,
     "longitude": -90.1402241,
-    "forecast": "Partly cloudy, with a low around 78. East wind around 0 mph.",
+    "forecast": "Partly cloudy, with a low around 78. Southwest wind 0 to 5 mph.",
     "temperature": "78\u00b0F",
-    "wind": "0 mph "
+    "wind": "0 to 5 mph SW"
   },
   {
     "name": "Jewel Cave National Monument",
     "latitude": 43.73102945,
     "longitude": -103.829994,
-    "forecast": "A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 64. North wind around 3 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 64. North wind around 3 mph. Chance of precipitation is 20%.",
     "temperature": "64\u00b0F",
     "wind": "3 mph N"
   },
@@ -1907,7 +1907,7 @@
     "name": "Jimmy Carter National Historical Park",
     "latitude": 32.03611,
     "longitude": -84.3924,
-    "forecast": "A slight chance of showers and thunderstorms before 3am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 70. South wind around 0 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of rain showers between 2am and 3am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 70. South wind around 0 mph. Chance of precipitation is 20%.",
     "temperature": "70\u00b0F",
     "wind": "0 mph "
   },
@@ -1915,17 +1915,17 @@
     "name": "John Day Fossil Beds National Monument",
     "latitude": 44.62566508,
     "longitude": -119.8811491,
-    "forecast": "Mostly clear, with a low around 43. Northwest wind 0 to 8 mph.",
+    "forecast": "Mostly clear, with a low around 43. Northwest wind 0 to 7 mph.",
     "temperature": "43\u00b0F",
-    "wind": "0 to 8 mph NW"
+    "wind": "0 to 7 mph NW"
   },
   {
     "name": "John Fitzgerald Kennedy National Historic Site",
     "latitude": 42.34693694,
     "longitude": -71.12323846,
-    "forecast": "Partly cloudy, with a low around 61. West wind around 7 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Partly cloudy, with a low around 61. Northwest wind around 8 mph.",
     "temperature": "61\u00b0F",
-    "wind": "7 mph W"
+    "wind": "8 mph NW"
   },
   {
     "name": "John Muir National Historic Site",
@@ -1947,39 +1947,39 @@
     "name": "Joshua Tree National Park",
     "latitude": 33.91418525,
     "longitude": -115.8398125,
-    "forecast": "Mostly clear. Low around 83, with temperatures rising to around 85 overnight. West wind 0 to 10 mph.",
+    "forecast": "Mostly clear. Low around 83, with temperatures rising to around 85 overnight. West wind 0 to 5 mph.",
     "temperature": "83\u00b0F",
-    "wind": "0 to 10 mph W"
+    "wind": "0 to 5 mph W"
   },
   {
     "name": "Juan Bautista de Anza National Historic Trail",
     "latitude": 33.8743390994,
     "longitude": -117.224179857,
-    "forecast": "Clear, with a low around 73. Southeast wind 0 to 10 mph.",
-    "temperature": "73\u00b0F",
-    "wind": "0 to 10 mph SE"
+    "forecast": "Mostly clear, with a low around 74. Northwest wind around 0 mph.",
+    "temperature": "74\u00b0F",
+    "wind": "0 mph "
   },
   {
     "name": "Kalaupapa National Historical Park",
     "latitude": 21.1731108,
     "longitude": -156.9511609,
-    "forecast": "Isolated rain showers. Mostly sunny, with a high near 79. East northeast wind around 18 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "79\u00b0F",
+    "forecast": "Isolated rain showers. Partly cloudy, with a low around 72. East northeast wind around 18 mph, with gusts as high as 26 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "72\u00b0F",
     "wind": "18 mph ENE"
   },
   {
     "name": "Kaloko-Honok\u014dhau National Historical Park",
     "latitude": 19.68083237,
     "longitude": -156.0306932,
-    "forecast": "Isolated rain showers. Mostly sunny. High near 88, with temperatures falling to around 83 in the afternoon. South southwest wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "88\u00b0F",
-    "wind": "2 to 7 mph SSW"
+    "forecast": "Partly cloudy, with a low around 75. South southeast wind around 5 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "75\u00b0F",
+    "wind": "5 mph SSE"
   },
   {
     "name": "Katahdin Woods and Waters National Monument",
     "latitude": 45.9567565918,
     "longitude": -68.7122879028,
-    "forecast": "Partly cloudy, with a low around 50. Northwest wind 8 to 13 mph, with gusts as high as 23 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Mostly clear, with a low around 50. Northwest wind 8 to 13 mph, with gusts as high as 23 mph. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "50\u00b0F",
     "wind": "8 to 13 mph NW"
   },
@@ -1987,15 +1987,15 @@
     "name": "Katmai National Park & Preserve",
     "latitude": 58.62235668,
     "longitude": -155.0126574,
-    "forecast": "Rain showers before 1am, then rain. Cloudy, with a low around 49. West wind 10 to 15 mph. Chance of precipitation is 90%.",
+    "forecast": "Rain showers before 1am, then rain. Cloudy, with a low around 49. West wind around 10 mph. Chance of precipitation is 80%.",
     "temperature": "49\u00b0F",
-    "wind": "10 to 15 mph W"
+    "wind": "10 mph W"
   },
   {
     "name": "Kenai Fjords National Park",
     "latitude": 59.81804414,
     "longitude": -150.106502,
-    "forecast": "A chance of rain showers before 1am. Mostly cloudy, with a low around 41. West wind 10 to 20 mph. Chance of precipitation is 50%.",
+    "forecast": "A chance of rain showers before 1am. Mostly cloudy, with a low around 41. West wind 10 to 20 mph. Chance of precipitation is 40%.",
     "temperature": "41\u00b0F",
     "wind": "10 to 20 mph W"
   },
@@ -2003,15 +2003,15 @@
     "name": "Kenilworth Park & Aquatic Gardens",
     "latitude": 38.9128,
     "longitude": -76.9434,
-    "forecast": "Mostly clear, with a low around 66. Northeast wind 1 to 6 mph.",
+    "forecast": "Partly cloudy, with a low around 66. Northeast wind 2 to 6 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 6 mph NE"
+    "wind": "2 to 6 mph NE"
   },
   {
     "name": "Kennesaw Mountain National Battlefield Park",
     "latitude": 33.95370717,
     "longitude": -84.59214186,
-    "forecast": "A chance of showers and thunderstorms before midnight, then patchy fog. Mostly cloudy, with a low around 69. East wind around 0 mph. Chance of precipitation is 40%.",
+    "forecast": "Patchy fog after 4am. Mostly cloudy, with a low around 69. East wind around 0 mph.",
     "temperature": "69\u00b0F",
     "wind": "0 mph "
   },
@@ -2019,7 +2019,7 @@
     "name": "Keweenaw National Historical Park",
     "latitude": 47.1792308,
     "longitude": -88.52275344,
-    "forecast": "Mostly cloudy. Low around 52, with temperatures rising to around 55 overnight. Southeast wind around 5 mph.",
+    "forecast": "Partly cloudy. Low around 52, with temperatures rising to around 55 overnight. Southeast wind around 5 mph.",
     "temperature": "52\u00b0F",
     "wind": "5 mph SE"
   },
@@ -2027,7 +2027,7 @@
     "name": "Kings Mountain National Military Park",
     "latitude": 35.13900723,
     "longitude": -81.38978712,
-    "forecast": "Patchy fog between midnight and 3am, then patchy fog and a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 68. Wind around 0 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "forecast": "Patchy fog before 3am, then patchy fog and a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 68. Wind around 0 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "temperature": "68\u00b0F",
     "wind": "0 mph "
   },
@@ -2043,7 +2043,7 @@
     "name": "Klondike Gold Rush National Historical Park",
     "latitude": 59.61042373,
     "longitude": -135.2618535,
-    "forecast": "Rain after 7pm. Cloudy, with a low around 40. Southwest wind 25 to 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "forecast": "Rain. Cloudy, with a low around 40. Southwest wind 25 to 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "temperature": "40\u00b0F",
     "wind": "25 to 30 mph SW"
   },
@@ -2051,9 +2051,9 @@
     "name": "Knife River Indian Villages National Historic Site",
     "latitude": 47.3540219,
     "longitude": -101.3860533,
-    "forecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 62. Southeast wind 1 to 7 mph. Chance of precipitation is 30%.",
+    "forecast": "A chance of rain showers before 1am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 62. Southeast wind around 2 mph. Chance of precipitation is 30%.",
     "temperature": "62\u00b0F",
-    "wind": "1 to 7 mph SE"
+    "wind": "2 mph SE"
   },
   {
     "name": "Kobuk Valley National Park",
@@ -2083,73 +2083,73 @@
     "name": "Lake Clark National Park & Preserve",
     "latitude": 60.57405857,
     "longitude": -153.55535,
-    "forecast": "Rain showers before 1am, then rain. Cloudy, with a low around 38. West wind 10 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.",
+    "forecast": "Rain showers before 1am, then rain. Cloudy, with a low around 38. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.",
     "temperature": "38\u00b0F",
-    "wind": "10 to 20 mph W"
+    "wind": "10 to 15 mph W"
   },
   {
     "name": "Lake Mead National Recreation Area",
     "latitude": 35.96622528,
     "longitude": -114.3469067,
-    "forecast": "Scattered showers and thunderstorms before 8pm. Partly cloudy. Low around 88, with temperatures rising to around 90 overnight. South wind 6 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 30%.",
+    "forecast": "Partly cloudy. Low around 88, with temperatures rising to around 90 overnight. South wind 6 to 9 mph.",
     "temperature": "88\u00b0F",
-    "wind": "6 to 12 mph S"
+    "wind": "6 to 9 mph S"
   },
   {
     "name": "Lake Meredith National Recreation Area",
     "latitude": 35.61926203,
     "longitude": -101.6820066,
-    "forecast": "Mostly clear, with a low around 74. South wind around 15 mph, with gusts as high as 25 mph.",
+    "forecast": "Partly cloudy, with a low around 74. South wind 10 to 15 mph, with gusts as high as 25 mph.",
     "temperature": "74\u00b0F",
-    "wind": "15 mph S"
+    "wind": "10 to 15 mph S"
   },
   {
     "name": "Lake Roosevelt National Recreation Area",
     "latitude": 48.17148735,
     "longitude": -118.3513713,
-    "forecast": "Areas of smoke after midnight. Partly cloudy. Low around 53, with temperatures rising to around 55 overnight. Southwest wind around 5 mph.",
+    "forecast": "Areas of smoke after midnight. Partly cloudy. Low around 53, with temperatures rising to around 55 overnight. Southwest wind around 3 mph.",
     "temperature": "53\u00b0F",
-    "wind": "5 mph SW"
+    "wind": "3 mph SW"
   },
   {
     "name": "Lassen Volcanic National Park",
     "latitude": 40.49354575,
     "longitude": -121.4075993,
-    "forecast": "Mostly clear. Low around 44, with temperatures rising to around 46 overnight. South southwest wind 3 to 8 mph.",
+    "forecast": "Clear. Low around 44, with temperatures rising to around 46 overnight. South southwest wind around 6 mph.",
     "temperature": "44\u00b0F",
-    "wind": "3 to 8 mph SSW"
+    "wind": "6 mph SSW"
   },
   {
     "name": "Lava Beds National Monument",
     "latitude": 41.75915823,
     "longitude": -121.5172189,
-    "forecast": "Clear. Low around 50, with temperatures rising to around 52 overnight. Southwest wind 3 to 14 mph, with gusts as high as 25 mph.",
+    "forecast": "Clear. Low around 50, with temperatures rising to around 52 overnight. Southwest wind 3 to 10 mph, with gusts as high as 20 mph.",
     "temperature": "50\u00b0F",
-    "wind": "3 to 14 mph SW"
+    "wind": "3 to 10 mph SW"
   },
   {
     "name": "Lewis & Clark National Historic Trail",
     "latitude": 41.2646141052,
     "longitude": -95.9245147705,
-    "forecast": "Partly cloudy, with a low around 72. South southeast wind around 13 mph, with gusts as high as 23 mph.",
+    "forecast": "Mostly cloudy. Low around 72, with temperatures rising to around 74 overnight. South southeast wind 9 to 13 mph, with gusts as high as 23 mph.",
     "temperature": "72\u00b0F",
-    "wind": "13 mph SSE"
+    "wind": "9 to 13 mph SSE"
   },
   {
     "name": "Lewis and Clark National Historical Park",
     "latitude": 46.21178735,
     "longitude": -123.9638583,
-    "forecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 57. West wind 5 to 8 mph. Chance of precipitation is 30%.",
+    "forecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 57. West wind around 6 mph. Chance of precipitation is 30%.",
     "temperature": "57\u00b0F",
-    "wind": "5 to 8 mph W"
+    "wind": "6 mph W"
   },
   {
     "name": "Lincoln Boyhood National Memorial",
     "latitude": 38.11817004,
     "longitude": -86.99656861,
-    "forecast": "Mostly clear, with a low around 63. Northeast wind around 5 mph.",
+    "forecast": "Mostly clear, with a low around 63. Northeast wind around 3 mph.",
     "temperature": "63\u00b0F",
-    "wind": "5 mph NE"
+    "wind": "3 mph NE"
   },
   {
     "name": "Lincoln Home National Historic Site",
@@ -2171,9 +2171,9 @@
     "name": "Little Bighorn Battlefield National Monument",
     "latitude": 45.55633048,
     "longitude": -107.4183614,
-    "forecast": "A slight chance of rain showers after 3am. Mostly cloudy, with a low around 60. South wind around 5 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of rain showers after 3am. Mostly cloudy, with a low around 60. South southeast wind around 5 mph. Chance of precipitation is 20%.",
     "temperature": "60\u00b0F",
-    "wind": "5 mph S"
+    "wind": "5 mph SSE"
   },
   {
     "name": "Little River Canyon National Preserve",
@@ -2187,7 +2187,7 @@
     "name": "Little Rock Central High School National Historic Site",
     "latitude": 34.7369465,
     "longitude": -92.29987899,
-    "forecast": "Mostly clear, with a low around 68. Northeast wind 0 to 5 mph.",
+    "forecast": "Clear, with a low around 68. Northeast wind 0 to 5 mph.",
     "temperature": "68\u00b0F",
     "wind": "0 to 5 mph NE"
   },
@@ -2203,9 +2203,9 @@
     "name": "Lowell National Historical Park",
     "latitude": 42.6455371,
     "longitude": -71.31588673,
-    "forecast": "Partly cloudy, with a low around 57. Northwest wind around 5 mph.",
+    "forecast": "Mostly clear, with a low around 57. Northwest wind around 6 mph.",
     "temperature": "57\u00b0F",
-    "wind": "5 mph NW"
+    "wind": "6 mph NW"
   },
   {
     "name": "Lower Delaware National Wild and Scenic River",
@@ -2227,8 +2227,8 @@
     "name": "Lyndon B Johnson National Historical Park",
     "latitude": 30.2519655,
     "longitude": -98.60692433,
-    "forecast": "A slight chance of rain showers before 10pm. Mostly clear, with a low around 72. South southwest wind around 0 mph. Chance of precipitation is 20%.",
-    "temperature": "72\u00b0F",
+    "forecast": "Mostly clear, with a low around 71. Southwest wind around 0 mph.",
+    "temperature": "71\u00b0F",
     "wind": "0 mph "
   },
   {
@@ -2259,9 +2259,9 @@
     "name": "Manassas National Battlefield Park",
     "latitude": 38.81710063,
     "longitude": -77.5353468,
-    "forecast": "Partly cloudy, with a low around 63. North wind 1 to 6 mph.",
+    "forecast": "Mostly clear, with a low around 63. North wind 1 to 5 mph.",
     "temperature": "63\u00b0F",
-    "wind": "1 to 6 mph N"
+    "wind": "1 to 5 mph N"
   },
   {
     "name": "Manhattan Project National Historical Park",
@@ -2283,7 +2283,7 @@
     "name": "Marsh - Billings - Rockefeller National Historical Park",
     "latitude": 43.63348732,
     "longitude": -72.53424638,
-    "forecast": "Patchy fog after midnight. Partly cloudy, with a low around 47. Northwest wind around 7 mph.",
+    "forecast": "Patchy fog. Mostly cloudy, with a low around 47. Northwest wind around 7 mph.",
     "temperature": "47\u00b0F",
     "wind": "7 mph NW"
   },
@@ -2315,9 +2315,9 @@
     "name": "Mary McLeod Bethune Council House National Historic Site",
     "latitude": 38.90819107,
     "longitude": -77.03096742,
-    "forecast": "Partly cloudy, with a low around 66. Northeast wind 1 to 7 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Partly cloudy, with a low around 66. North wind 1 to 7 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 7 mph NE"
+    "wind": "1 to 7 mph N"
   },
   {
     "name": "Medgar and Myrlie Evers Home National Monument",
@@ -2331,9 +2331,9 @@
     "name": "Mesa Verde National Park",
     "latitude": 37.23908345,
     "longitude": -108.4624032,
-    "forecast": "Isolated showers and thunderstorms. Mostly cloudy, with a low around 64. North northwest wind 5 to 10 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of rain showers before 11pm, then a slight chance of showers and thunderstorms between midnight and 4am. Mostly cloudy, with a low around 64. North northwest wind around 5 mph. Chance of precipitation is 20%.",
     "temperature": "64\u00b0F",
-    "wind": "5 to 10 mph NNW"
+    "wind": "5 mph NNW"
   },
   {
     "name": "Mill Springs Battlefield National Monument",
@@ -2355,7 +2355,7 @@
     "name": "Minute Man National Historical Park",
     "latitude": 42.4562778,
     "longitude": -71.30738884,
-    "forecast": "Partly cloudy, with a low around 57. Northwest wind around 6 mph.",
+    "forecast": "Mostly clear, with a low around 57. Northwest wind around 6 mph.",
     "temperature": "57\u00b0F",
     "wind": "6 mph NW"
   },
@@ -2363,7 +2363,7 @@
     "name": "Minuteman Missile National Historic Site",
     "latitude": 43.89558013,
     "longitude": -102.0272131,
-    "forecast": "A slight chance of showers and thunderstorms before 9pm. Mostly cloudy, with a low around 65. West wind around 7 mph, with gusts as high as 17 mph. Chance of precipitation is 20%.",
+    "forecast": "Mostly cloudy, with a low around 65. West wind around 7 mph.",
     "temperature": "65\u00b0F",
     "wind": "7 mph W"
   },
@@ -2379,9 +2379,9 @@
     "name": "Missouri National Recreational River",
     "latitude": 42.7882189,
     "longitude": -97.59077822,
-    "forecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 73. South wind around 21 mph, with gusts as high as 32 mph. Chance of precipitation is 30%.",
+    "forecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 73. South wind 16 to 22 mph, with gusts as high as 35 mph. Chance of precipitation is 30%.",
     "temperature": "73\u00b0F",
-    "wind": "21 mph S"
+    "wind": "16 to 22 mph S"
   },
   {
     "name": "Mojave National Preserve",
@@ -2395,17 +2395,17 @@
     "name": "Monocacy National Battlefield",
     "latitude": 39.36084236,
     "longitude": -77.39637677,
-    "forecast": "Mostly clear, with a low around 61. Northeast wind 1 to 6 mph.",
+    "forecast": "Mostly clear, with a low around 61. Northeast wind 2 to 6 mph.",
     "temperature": "61\u00b0F",
-    "wind": "1 to 6 mph NE"
+    "wind": "2 to 6 mph NE"
   },
   {
     "name": "Montezuma Castle National Monument",
     "latitude": 34.62237771,
     "longitude": -111.8147857,
-    "forecast": "A slight chance of showers and thunderstorms before 2am. Partly cloudy, with a low around 73. Northeast wind 7 to 10 mph, with gusts as high as 17 mph. Chance of precipitation is 20%.",
+    "forecast": "A chance of showers and thunderstorms before 11pm, then a slight chance of showers and thunderstorms between 11pm and 5am. Mostly cloudy, with a low around 73. Northeast wind around 7 mph. Chance of precipitation is 40%.",
     "temperature": "73\u00b0F",
-    "wind": "7 to 10 mph NE"
+    "wind": "7 mph NE"
   },
   {
     "name": "Moores Creek National Battlefield",
@@ -2419,9 +2419,9 @@
     "name": "Mormon Pioneer National Historic Trail",
     "latitude": 41.2650321741,
     "longitude": -101.84083756,
-    "forecast": "A slight chance of showers and thunderstorms before midnight. Partly cloudy, with a low around 68. South southwest wind 5 to 15 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms before midnight. Partly cloudy, with a low around 68. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.",
     "temperature": "68\u00b0F",
-    "wind": "5 to 15 mph SSW"
+    "wind": "5 to 10 mph SSW"
   },
   {
     "name": "Morristown National Historical Park",
@@ -2435,7 +2435,7 @@
     "name": "Mount Rainier National Park",
     "latitude": 46.86075416,
     "longitude": -121.7043885,
-    "forecast": "A slight chance of snow after 5am. Partly cloudy. Low around 26, with temperatures rising to around 32 overnight. Wind chill values as low as 19. West southwest wind 13 to 22 mph, with gusts as high as 32 mph. Chance of precipitation is 20%. Little or no snow accumulation expected.",
+    "forecast": "A slight chance of snow after 5am. Mostly cloudy. Low around 26, with temperatures rising to around 32 overnight. Wind chill values as low as 19. West southwest wind 13 to 22 mph, with gusts as high as 32 mph. Chance of precipitation is 20%. Little or no snow accumulation expected.",
     "temperature": "26\u00b0F",
     "wind": "13 to 22 mph WSW"
   },
@@ -2443,7 +2443,7 @@
     "name": "Mount Rushmore National Memorial",
     "latitude": 43.88037021,
     "longitude": -103.4525186,
-    "forecast": "A slight chance of showers and thunderstorms before 9pm. Mostly cloudy, with a low around 66. West wind around 3 mph, with gusts as high as 16 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 66. West wind around 3 mph. Chance of precipitation is 20%.",
     "temperature": "66\u00b0F",
     "wind": "3 mph W"
   },
@@ -2483,9 +2483,9 @@
     "name": "National Capital Parks-East",
     "latitude": 38.8659,
     "longitude": -76.994,
-    "forecast": "Partly cloudy, with a low around 66. Northeast wind 1 to 7 mph.",
+    "forecast": "Partly cloudy, with a low around 66. Northeast wind 2 to 7 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 7 mph NE"
+    "wind": "2 to 7 mph NE"
   },
   {
     "name": "National Mall and Memorial Parks",
@@ -2513,25 +2513,25 @@
     "name": "Natural Bridges National Monument",
     "latitude": 37.6045329,
     "longitude": -110.0022436,
-    "forecast": "Isolated showers and thunderstorms before 1am. Mostly cloudy, with a low around 66. North northeast wind around 5 mph. Chance of precipitation is 20%.",
-    "temperature": "66\u00b0F",
-    "wind": "5 mph NNE"
+    "forecast": "Mostly cloudy, with a low around 65. East southeast wind 0 to 5 mph.",
+    "temperature": "65\u00b0F",
+    "wind": "0 to 5 mph ESE"
   },
   {
     "name": "Navajo National Monument",
     "latitude": 36.71755643,
     "longitude": -110.5504015,
-    "forecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 60. Southwest wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 60. South wind around 9 mph. Chance of precipitation is 20%.",
     "temperature": "60\u00b0F",
-    "wind": "10 mph SW"
+    "wind": "9 mph S"
   },
   {
     "name": "New Bedford Whaling National Historical Park",
     "latitude": 41.63540552,
     "longitude": -70.92322321,
-    "forecast": "Mostly cloudy, with a low around 62. West wind 5 to 10 mph.",
+    "forecast": "Mostly cloudy, with a low around 62. Northwest wind 7 to 10 mph.",
     "temperature": "62\u00b0F",
-    "wind": "5 to 10 mph W"
+    "wind": "7 to 10 mph NW"
   },
   {
     "name": "New England National Scenic Trail",
@@ -2553,9 +2553,9 @@
     "name": "New Orleans Jazz National Historical Park",
     "latitude": 29.96303129,
     "longitude": -90.06749669,
-    "forecast": "Partly cloudy, with a low around 78. East wind 0 to 5 mph.",
+    "forecast": "Partly cloudy, with a low around 78. West wind 0 to 5 mph.",
     "temperature": "78\u00b0F",
-    "wind": "0 to 5 mph E"
+    "wind": "0 to 5 mph W"
   },
   {
     "name": "New Philadelphia National Historic Site",
@@ -2569,9 +2569,9 @@
     "name": "New River Gorge National Park & Preserve",
     "latitude": 37.86878554,
     "longitude": -80.99956002,
-    "forecast": "Patchy fog after 3am. Mostly clear, with a low around 58. Northeast wind around 3 mph.",
-    "temperature": "58\u00b0F",
-    "wind": "3 mph NE"
+    "forecast": "Patchy fog after 3am. Clear, with a low around 62. East wind around 3 mph.",
+    "temperature": "62\u00b0F",
+    "wind": "3 mph E"
   },
   {
     "name": "Nez Perce National Historical Park",
@@ -2601,15 +2601,15 @@
     "name": "Niobrara National Scenic River",
     "latitude": 42.79413083,
     "longitude": -99.91870646,
-    "forecast": "A slight chance of showers and thunderstorms between 10pm and 11pm. Partly cloudy, with a low around 70. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.",
+    "forecast": "Partly cloudy, with a low around 70. South southwest wind 10 to 15 mph, with gusts as high as 25 mph.",
     "temperature": "70\u00b0F",
-    "wind": "10 to 15 mph S"
+    "wind": "10 to 15 mph SSW"
   },
   {
     "name": "Noatak National Preserve",
     "latitude": 68.01027053,
     "longitude": -159.831694,
-    "forecast": "Isolated rain showers before 7pm. Partly cloudy, with a low around 31. North wind 5 to 15 mph. Chance of precipitation is 20%.",
+    "forecast": "Mostly clear, with a low around 31. North wind 5 to 15 mph.",
     "temperature": "31\u00b0F",
     "wind": "5 to 15 mph N"
   },
@@ -2625,9 +2625,9 @@
     "name": "North Country National Scenic Trail",
     "latitude": 46.334400743,
     "longitude": -90.8165630499,
-    "forecast": "A chance of rain showers between 3am and 4am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 56. Southeast wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A chance of rain showers between 3am and 4am, then a slight chance of showers and thunderstorms between 4am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 56. South wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "56\u00b0F",
-    "wind": "0 to 5 mph SE"
+    "wind": "5 mph S"
   },
   {
     "name": "Obed Wild & Scenic River",
@@ -2657,9 +2657,9 @@
     "name": "Old Spanish National Historic Trail",
     "latitude": 37.0791782514,
     "longitude": -112.114693431,
-    "forecast": "Isolated showers and thunderstorms before 9pm. Mostly cloudy. Low around 62, with temperatures rising to around 64 overnight. Southwest wind 5 to 12 mph. Chance of precipitation is 20%.",
+    "forecast": "Partly cloudy. Low around 62, with temperatures rising to around 64 overnight. South southwest wind around 6 mph.",
     "temperature": "62\u00b0F",
-    "wind": "5 to 12 mph SW"
+    "wind": "6 mph SSW"
   },
   {
     "name": "Olympic National Park",
@@ -2681,9 +2681,9 @@
     "name": "Oregon National Historic Trail",
     "latitude": 41.9876977831,
     "longitude": -109.634200841,
-    "forecast": "Scattered showers and thunderstorms before 3am. Mostly cloudy, with a low around 52. West southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A chance of showers and thunderstorms before 11pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 52. Southwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "52\u00b0F",
-    "wind": "5 to 10 mph WSW"
+    "wind": "6 mph SW"
   },
   {
     "name": "Organ Pipe Cactus National Monument",
@@ -2705,9 +2705,9 @@
     "name": "Oxon Cove Park & Oxon Hill Farm",
     "latitude": 38.80578214,
     "longitude": -77.01131457,
-    "forecast": "Partly cloudy, with a low around 66. North wind 1 to 6 mph.",
+    "forecast": "Partly cloudy, with a low around 66. North wind 2 to 6 mph.",
     "temperature": "66\u00b0F",
-    "wind": "1 to 6 mph N"
+    "wind": "2 to 6 mph N"
   },
   {
     "name": "Ozark National Scenic Riverways",
@@ -2727,9 +2727,9 @@
     "name": "Palo Alto Battlefield National Historical Park",
     "latitude": 26.02387351,
     "longitude": -97.46296072,
-    "forecast": "Mostly clear, with a low around 79. Southeast wind 2 to 8 mph.",
+    "forecast": "Mostly clear, with a low around 79. South southeast wind around 5 mph.",
     "temperature": "79\u00b0F",
-    "wind": "2 to 8 mph SE"
+    "wind": "5 mph SSE"
   },
   {
     "name": "Paterson Great Falls National Historical Park",
@@ -2751,9 +2751,9 @@
     "name": "Pearl Harbor National Memorial",
     "latitude": 21.3670699388,
     "longitude": -157.938578898,
-    "forecast": "Sunny, with a high near 87. East northeast wind around 16 mph, with gusts as high as 21 mph.",
-    "temperature": "87\u00b0F",
-    "wind": "16 mph ENE"
+    "forecast": "Mostly clear, with a low around 75. East northeast wind 6 to 15 mph, with gusts as high as 21 mph.",
+    "temperature": "75\u00b0F",
+    "wind": "6 to 15 mph ENE"
   },
   {
     "name": "Pecos National Historical Park",
@@ -2783,17 +2783,17 @@
     "name": "Petersburg National Battlefield",
     "latitude": 37.19109957,
     "longitude": -77.47594865,
-    "forecast": "Mostly cloudy, with a low around 68. Northeast wind around 2 mph.",
+    "forecast": "Mostly cloudy, with a low around 68. North wind around 3 mph.",
     "temperature": "68\u00b0F",
-    "wind": "2 mph NE"
+    "wind": "3 mph N"
   },
   {
     "name": "Petrified Forest National Park",
     "latitude": 34.98387664,
     "longitude": -109.7877678,
-    "forecast": "A chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms between 8pm and 11pm, then a slight chance of showers and thunderstorms between 11pm and 2am. Mostly cloudy, with a low around 66. Southeast wind 6 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 30%.",
-    "temperature": "66\u00b0F",
-    "wind": "6 to 14 mph SE"
+    "forecast": "A chance of showers and thunderstorms before 11pm, then a slight chance of showers and thunderstorms between 11pm and 2am. Mostly cloudy, with a low around 67. Southeast wind 3 to 7 mph. Chance of precipitation is 40%.",
+    "temperature": "67\u00b0F",
+    "wind": "3 to 7 mph SE"
   },
   {
     "name": "Petroglyph National Monument",
@@ -2807,9 +2807,9 @@
     "name": "Pictured Rocks National Lakeshore",
     "latitude": 46.56435642,
     "longitude": -86.31628733,
-    "forecast": "Mostly cloudy, with a low around 53. Southeast wind around 5 mph.",
+    "forecast": "Partly cloudy, with a low around 53. South wind around 5 mph.",
     "temperature": "53\u00b0F",
-    "wind": "5 mph SE"
+    "wind": "5 mph S"
   },
   {
     "name": "Pinnacles National Park",
@@ -2831,9 +2831,9 @@
     "name": "Pipestone National Monument",
     "latitude": 44.01351958,
     "longitude": -96.32475523,
-    "forecast": "A chance of showers and thunderstorms before 2am, then showers and thunderstorms likely between 2am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 65. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
+    "forecast": "A chance of showers and thunderstorms before 1am, then showers and thunderstorms between 1am and 5am, then a chance of showers and thunderstorms. Cloudy, with a low around 65. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible.",
     "temperature": "65\u00b0F",
-    "wind": "15 to 20 mph S"
+    "wind": "15 to 20 mph SSE"
   },
   {
     "name": "Piscataway Park",
@@ -2855,9 +2855,9 @@
     "name": "Pony Express National Historic Trail",
     "latitude": 42.2365761128,
     "longitude": -109.266148417,
-    "forecast": "Scattered showers and thunderstorms before 3am. Mostly cloudy, with a low around 51. West southwest wind 3 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 51. West southwest wind 5 to 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "51\u00b0F",
-    "wind": "3 to 12 mph WSW"
+    "wind": "5 to 8 mph WSW"
   },
   {
     "name": "Port Chicago Naval Magazine National Memorial",
@@ -2895,17 +2895,17 @@
     "name": "Presidio of San Francisco",
     "latitude": 37.797,
     "longitude": -122.4671,
-    "forecast": "Partly cloudy, with a low around 56. West wind around 15 mph, with gusts as high as 20 mph.",
+    "forecast": "Partly cloudy, with a low around 56. West southwest wind around 14 mph, with gusts as high as 20 mph.",
     "temperature": "56\u00b0F",
-    "wind": "15 mph W"
+    "wind": "14 mph WSW"
   },
   {
     "name": "Prince William Forest Park",
     "latitude": 38.58589108,
     "longitude": -77.38910997,
-    "forecast": "Partly cloudy, with a low around 65. North wind 1 to 5 mph.",
+    "forecast": "Partly cloudy, with a low around 65. North wind around 5 mph.",
     "temperature": "65\u00b0F",
-    "wind": "1 to 5 mph N"
+    "wind": "5 mph N"
   },
   {
     "name": "Pullman National Historical Park",
@@ -2919,25 +2919,25 @@
     "name": "Pu\u02bbuhonua o H\u014dnaunau National Historical Park",
     "latitude": 19.41268627,
     "longitude": -155.9008789,
-    "forecast": "Scattered rain showers. Partly sunny. High near 84, with temperatures falling to around 79 in the afternoon. West northwest wind around 2 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "84\u00b0F",
-    "wind": "2 mph WNW"
+    "forecast": "Isolated rain showers before midnight. Partly cloudy, with a low around 69. Northeast wind around 2 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "69\u00b0F",
+    "wind": "2 mph NE"
   },
   {
     "name": "Pu\u02bbukohol\u0101 Heiau National Historic Site",
     "latitude": 20.02772186,
     "longitude": -155.8211629,
-    "forecast": "Sunny. High near 87, with temperatures falling to around 82 in the afternoon. West southwest wind around 8 mph.",
-    "temperature": "87\u00b0F",
-    "wind": "8 mph WSW"
+    "forecast": "Mostly clear, with a low around 73. Southwest wind 0 to 8 mph.",
+    "temperature": "73\u00b0F",
+    "wind": "0 to 8 mph SW"
   },
   {
     "name": "Rainbow Bridge National Monument",
     "latitude": 37.0779,
     "longitude": -110.9655,
-    "forecast": "Isolated showers and thunderstorms before 9pm. Mostly cloudy. Low around 73, with temperatures rising to around 75 overnight. South southwest wind 8 to 13 mph. Chance of precipitation is 20%.",
+    "forecast": "Mostly cloudy. Low around 73, with temperatures rising to around 75 overnight. South wind around 10 mph.",
     "temperature": "73\u00b0F",
-    "wind": "8 to 13 mph SSW"
+    "wind": "10 mph S"
   },
   {
     "name": "Reconstruction Era National Historical Park",
@@ -2951,17 +2951,17 @@
     "name": "Redwood National and State Parks",
     "latitude": 41.37237268,
     "longitude": -124.0318129,
-    "forecast": "A slight chance of rain between 11pm and 2am, then patchy fog and a slight chance of drizzle. Cloudy, with a low around 52. West southwest wind 1 to 5 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of rain between 11pm and 2am, then patchy fog and a slight chance of drizzle. Cloudy, with a low around 52. South southwest wind 1 to 5 mph. Chance of precipitation is 20%.",
     "temperature": "52\u00b0F",
-    "wind": "1 to 5 mph WSW"
+    "wind": "1 to 5 mph SSW"
   },
   {
     "name": "Richmond National Battlefield Park",
     "latitude": 37.48774472,
     "longitude": -77.29107785,
-    "forecast": "Mostly cloudy, with a low around 68. Northeast wind around 3 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Mostly cloudy, with a low around 68. Northeast wind around 5 mph. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "68\u00b0F",
-    "wind": "3 mph NE"
+    "wind": "5 mph NE"
   },
   {
     "name": "Rio Grande Wild & Scenic River",
@@ -2983,9 +2983,9 @@
     "name": "Rock Creek Park",
     "latitude": 38.95125063,
     "longitude": -77.05002838,
-    "forecast": "Mostly clear, with a low around 65. Northeast wind 2 to 7 mph.",
+    "forecast": "Mostly clear, with a low around 65. Northeast wind 3 to 7 mph.",
     "temperature": "65\u00b0F",
-    "wind": "2 to 7 mph NE"
+    "wind": "3 to 7 mph NE"
   },
   {
     "name": "Rocky Mountain National Park",
@@ -2999,9 +2999,9 @@
     "name": "Roger Williams National Memorial",
     "latitude": 41.8298955,
     "longitude": -71.41056665,
-    "forecast": "Partly cloudy, with a low around 59. Northwest wind around 6 mph.",
+    "forecast": "Partly cloudy, with a low around 59. North wind around 6 mph.",
     "temperature": "59\u00b0F",
-    "wind": "6 mph NW"
+    "wind": "6 mph N"
   },
   {
     "name": "Roosevelt Campobello International Park",
@@ -3053,25 +3053,25 @@
     "name": "Saint Croix National Scenic Riverway",
     "latitude": 45.70019235,
     "longitude": -92.36126685,
-    "forecast": "A slight chance of showers and thunderstorms between 1am and 3am, then a chance of showers and thunderstorms between 3am and 4am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 62. South southeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A slight chance of showers and thunderstorms between 1am and 3am, then a chance of showers and thunderstorms between 3am and 4am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 62. South wind 0 to 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "62\u00b0F",
-    "wind": "5 mph SSE"
+    "wind": "0 to 5 mph S"
   },
   {
     "name": "Saint Paul's Church National Historic Site",
     "latitude": 40.89283511,
     "longitude": -73.82577276,
-    "forecast": "Mostly clear, with a low around 62. North wind 3 to 9 mph.",
+    "forecast": "Mostly clear, with a low around 62. North wind around 9 mph.",
     "temperature": "62\u00b0F",
-    "wind": "3 to 9 mph N"
+    "wind": "9 mph N"
   },
   {
     "name": "Saint-Gaudens National Historical Park",
     "latitude": 43.4997238,
     "longitude": -72.37333969,
-    "forecast": "Patchy fog after 1am. Mostly clear, with a low around 50. North wind 2 to 7 mph.",
+    "forecast": "Patchy fog after 1am. Mostly clear, with a low around 50. North wind around 5 mph.",
     "temperature": "50\u00b0F",
-    "wind": "2 to 7 mph N"
+    "wind": "5 mph N"
   },
   {
     "name": "Salem Maritime National Historical Park",
@@ -3101,9 +3101,9 @@
     "name": "San Antonio Missions National Historical Park",
     "latitude": 29.31262089,
     "longitude": -98.4289522,
-    "forecast": "A chance of showers and thunderstorms before 1am. Mostly clear, with a low around 76. Southeast wind 0 to 10 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible.",
+    "forecast": "A slight chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 76. East wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "temperature": "76\u00b0F",
-    "wind": "0 to 10 mph SE"
+    "wind": "0 to 5 mph E"
   },
   {
     "name": "San Francisco Maritime National Historical Park",
@@ -3117,9 +3117,9 @@
     "name": "San Juan Island National Historical Park",
     "latitude": 48.51241933,
     "longitude": -123.0610277,
-    "forecast": "Rain likely after 11pm. Mostly cloudy, with a low around 50. West southwest wind 2 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Rain likely after 11pm. Mostly cloudy, with a low around 50. West southwest wind 2 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "50\u00b0F",
-    "wind": "2 to 8 mph WSW"
+    "wind": "2 to 7 mph WSW"
   },
   {
     "name": "San Juan National Historic Site",
@@ -3133,7 +3133,7 @@
     "name": "Sand Creek Massacre National Historic Site",
     "latitude": 38.56414189,
     "longitude": -102.5169542,
-    "forecast": "Mostly cloudy, with a low around 65. South southeast wind 5 to 15 mph.",
+    "forecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 65. South southeast wind 5 to 15 mph.",
     "temperature": "65\u00b0F",
     "wind": "5 to 15 mph SSE"
   },
@@ -3141,33 +3141,33 @@
     "name": "Santa Fe National Historic Trail",
     "latitude": 37.7276522226,
     "longitude": -99.921969227,
-    "forecast": "Partly cloudy, with a low around 72. South wind around 17 mph.",
+    "forecast": "Partly cloudy, with a low around 72. South wind around 15 mph.",
     "temperature": "72\u00b0F",
-    "wind": "17 mph S"
+    "wind": "15 mph S"
   },
   {
     "name": "Santa Monica Mountains National Recreation Area",
     "latitude": 34.09777606,
     "longitude": -118.7708619,
-    "forecast": "Mostly clear, with a low around 76. East southeast wind 5 to 10 mph.",
+    "forecast": "Mostly clear, with a low around 76. East wind around 5 mph.",
     "temperature": "76\u00b0F",
-    "wind": "5 to 10 mph ESE"
+    "wind": "5 mph E"
   },
   {
     "name": "Saratoga National Historical Park",
     "latitude": 42.99522612,
     "longitude": -73.63386108,
-    "forecast": "Patchy fog between 3am and 5am. Mostly clear, with a low around 51. West wind 1 to 5 mph.",
+    "forecast": "Patchy fog between 3am and 5am. Mostly clear, with a low around 51. West wind around 3 mph.",
     "temperature": "51\u00b0F",
-    "wind": "1 to 5 mph W"
+    "wind": "3 mph W"
   },
   {
     "name": "Saugus Iron Works National Historic Site",
     "latitude": 42.46830664,
     "longitude": -71.0076953,
-    "forecast": "Partly cloudy, with a low around 60. Northwest wind around 7 mph.",
+    "forecast": "Partly cloudy, with a low around 60. Northwest wind around 8 mph.",
     "temperature": "60\u00b0F",
-    "wind": "7 mph NW"
+    "wind": "8 mph NW"
   },
   {
     "name": "Scotts Bluff National Monument",
@@ -3181,7 +3181,7 @@
     "name": "Selma To Montgomery National Historic Trail",
     "latitude": 32.27082092,
     "longitude": -86.72823702,
-    "forecast": "Partly cloudy, with a low around 72. South wind around 0 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Partly cloudy, with a low around 72. East wind around 0 mph.",
     "temperature": "72\u00b0F",
     "wind": "0 mph "
   },
@@ -3189,9 +3189,9 @@
     "name": "Sequoia & Kings Canyon National Parks",
     "latitude": 36.71277299,
     "longitude": -118.587429,
-    "forecast": "A chance of showers and thunderstorms before 8pm, then a chance of rain between 8pm and 5am. Partly cloudy, with a low around 52. South wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A chance of rain before 5am. Partly cloudy, with a low around 52. South southeast wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "52\u00b0F",
-    "wind": "0 to 5 mph S"
+    "wind": "0 to 5 mph SSE"
   },
   {
     "name": "Shenandoah National Park",
@@ -3205,7 +3205,7 @@
     "name": "Shiloh National Military Park",
     "latitude": 35.13850907,
     "longitude": -88.3421072,
-    "forecast": "Mostly clear, with a low around 66. North wind around 0 mph.",
+    "forecast": "Clear, with a low around 66. North wind around 0 mph.",
     "temperature": "66\u00b0F",
     "wind": "0 mph "
   },
@@ -3221,7 +3221,7 @@
     "name": "Sleeping Bear Dunes National Lakeshore",
     "latitude": 44.92844962,
     "longitude": -86.02706591,
-    "forecast": "Partly cloudy, with a low around 63. South wind 5 to 10 mph.",
+    "forecast": "Mostly cloudy, with a low around 63. South wind 5 to 10 mph.",
     "temperature": "63\u00b0F",
     "wind": "5 to 10 mph S"
   },
@@ -3229,25 +3229,25 @@
     "name": "Springfield 1908 Race Riot National Monument",
     "latitude": 39.8027,
     "longitude": -89.6422,
-    "forecast": "Mostly clear, with a low around 63. East southeast wind around 5 mph.",
+    "forecast": "Mostly clear, with a low around 63. Southeast wind around 5 mph.",
     "temperature": "63\u00b0F",
-    "wind": "5 mph ESE"
+    "wind": "5 mph SE"
   },
   {
     "name": "Springfield Armory National Historic Site",
     "latitude": 42.1086368,
     "longitude": -72.57967415,
-    "forecast": "Mostly clear, with a low around 56. Northwest wind around 7 mph.",
+    "forecast": "Clear, with a low around 56. North wind around 7 mph.",
     "temperature": "56\u00b0F",
-    "wind": "7 mph NW"
+    "wind": "7 mph N"
   },
   {
     "name": "Star-Spangled Banner National Historic Trail",
     "latitude": 39.2872505188,
     "longitude": -76.6034317017,
-    "forecast": "Mostly clear, with a low around 64. North wind around 6 mph.",
+    "forecast": "Mostly clear, with a low around 64. North wind around 5 mph.",
     "temperature": "64\u00b0F",
-    "wind": "6 mph N"
+    "wind": "5 mph N"
   },
   {
     "name": "Statue Of Liberty National Monument",
@@ -3261,17 +3261,17 @@
     "name": "Ste. Genevi\u00e8ve National Historical Park",
     "latitude": 37.9792171421,
     "longitude": -90.0432157516,
-    "forecast": "Patchy fog after 2am. Mostly clear, with a low around 61. North wind around 1 mph.",
+    "forecast": "Patchy fog after 2am. Clear, with a low around 61. West wind around 1 mph.",
     "temperature": "61\u00b0F",
-    "wind": "1 mph N"
+    "wind": "1 mph W"
   },
   {
     "name": "Steamtown National Historic Site",
     "latitude": 41.40757521,
     "longitude": -75.67037255,
-    "forecast": "Patchy fog after 2am. Clear, with a low around 52. Northeast wind 1 to 5 mph.",
+    "forecast": "Patchy fog after 2am. Clear, with a low around 52. Northeast wind 1 to 6 mph.",
     "temperature": "52\u00b0F",
-    "wind": "1 to 5 mph NE"
+    "wind": "1 to 6 mph NE"
   },
   {
     "name": "Stones River National Battlefield",
@@ -3293,17 +3293,17 @@
     "name": "Sunset Crater Volcano National Monument",
     "latitude": 35.37114323,
     "longitude": -111.510376,
-    "forecast": "A chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms between 8pm and 2am. Mostly cloudy, with a low around 58. South wind 3 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.",
+    "forecast": "A chance of showers and thunderstorms before 5am. Mostly cloudy, with a low around 58. South wind around 6 mph. Chance of precipitation is 50%.",
     "temperature": "58\u00b0F",
-    "wind": "3 to 10 mph S"
+    "wind": "6 mph S"
   },
   {
     "name": "Tallgrass Prairie National Preserve",
     "latitude": 38.44023613,
     "longitude": -96.5670822,
-    "forecast": "Mostly clear, with a low around 70. Southeast wind around 8 mph.",
+    "forecast": "Mostly clear, with a low around 70. South southeast wind around 8 mph.",
     "temperature": "70\u00b0F",
-    "wind": "8 mph SE"
+    "wind": "8 mph SSE"
   },
   {
     "name": "Thaddeus Kosciuszko National Memorial",
@@ -3333,9 +3333,9 @@
     "name": "Theodore Roosevelt Inaugural National Historic Site",
     "latitude": 42.90146781,
     "longitude": -78.87248411,
-    "forecast": "Clear, with a low around 55. Southeast wind around 3 mph.",
+    "forecast": "Clear, with a low around 55. South wind around 3 mph.",
     "temperature": "55\u00b0F",
-    "wind": "3 mph SE"
+    "wind": "3 mph S"
   },
   {
     "name": "Theodore Roosevelt Island",
@@ -3349,17 +3349,17 @@
     "name": "Theodore Roosevelt National Park",
     "latitude": 47.17777274,
     "longitude": -103.4300083,
-    "forecast": "A slight chance of showers and thunderstorms before 9pm. Mostly cloudy, with a low around 63. Southwest wind around 6 mph. Chance of precipitation is 20%.",
+    "forecast": "Mostly cloudy, with a low around 63. Southwest wind 0 to 5 mph.",
     "temperature": "63\u00b0F",
-    "wind": "6 mph SW"
+    "wind": "0 to 5 mph SW"
   },
   {
     "name": "Thomas Cole National Historic Site",
     "latitude": 42.22570607,
     "longitude": -73.86154864,
-    "forecast": "Mostly clear, with a low around 53. North wind around 6 mph.",
+    "forecast": "Mostly clear, with a low around 53. North wind around 5 mph.",
     "temperature": "53\u00b0F",
-    "wind": "6 mph N"
+    "wind": "5 mph N"
   },
   {
     "name": "Thomas Edison National Historical Park",
@@ -3381,9 +3381,9 @@
     "name": "Thomas Stone National Historic Site",
     "latitude": 38.52934443,
     "longitude": -77.037813,
-    "forecast": "Partly cloudy, with a low around 64. North wind 1 to 6 mph.",
+    "forecast": "Partly cloudy, with a low around 64. North wind 2 to 6 mph.",
     "temperature": "64\u00b0F",
-    "wind": "1 to 6 mph N"
+    "wind": "2 to 6 mph N"
   },
   {
     "name": "Timpanogos Cave National Monument",
@@ -3397,25 +3397,25 @@
     "name": "Timucuan Ecological & Historic Preserve",
     "latitude": 30.47251894,
     "longitude": -81.49950104,
-    "forecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy. Low around 75, with temperatures rising to around 76 overnight. South wind around 2 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
-    "temperature": "75\u00b0F",
-    "wind": "2 mph S"
+    "forecast": "Mostly cloudy. Low around 74, with temperatures rising to around 75 overnight. Southeast wind around 2 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "temperature": "74\u00b0F",
+    "wind": "2 mph SE"
   },
   {
     "name": "Tonto National Monument",
     "latitude": 33.64842945,
     "longitude": -111.1135627,
-    "forecast": "A slight chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms between 11pm and midnight, then a slight chance of showers and thunderstorms between midnight and 2am. Partly cloudy. Low around 80, with temperatures rising to around 82 overnight. South southeast wind 5 to 10 mph. Chance of precipitation is 30%.",
+    "forecast": "A slight chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms between 11pm and midnight, then a slight chance of showers and thunderstorms between midnight and 2am. Partly cloudy. Low around 80, with temperatures rising to around 82 overnight. Southeast wind around 5 mph. Chance of precipitation is 30%.",
     "temperature": "80\u00b0F",
-    "wind": "5 to 10 mph SSE"
+    "wind": "5 mph SE"
   },
   {
     "name": "Touro Synagogue National Historic Site",
     "latitude": 41.4893,
     "longitude": -71.3121,
-    "forecast": "Mostly cloudy, with a low around 65. Northwest wind 6 to 12 mph.",
+    "forecast": "Mostly cloudy, with a low around 65. North wind 8 to 12 mph.",
     "temperature": "65\u00b0F",
-    "wind": "6 to 12 mph NW"
+    "wind": "8 to 12 mph N"
   },
   {
     "name": "Trail Of Tears National Historic Trail",
@@ -3429,9 +3429,9 @@
     "name": "Tule Lake National Monument",
     "latitude": 41.88727902,
     "longitude": -121.3744818,
-    "forecast": "Mostly clear. Low around 47, with temperatures rising to around 51 overnight. South southwest wind 1 to 10 mph, with gusts as high as 24 mph.",
+    "forecast": "Clear. Low around 47, with temperatures rising to around 51 overnight. South wind 1 to 7 mph.",
     "temperature": "47\u00b0F",
-    "wind": "1 to 10 mph SSW"
+    "wind": "1 to 7 mph S"
   },
   {
     "name": "Tule Springs Fossil Beds National Monument",
@@ -3445,9 +3445,9 @@
     "name": "Tumac\u00e1cori National Historical Park",
     "latitude": 31.567824,
     "longitude": -111.051223,
-    "forecast": "A slight chance of showers and thunderstorms before 5am. Partly cloudy, with a low around 70. Southwest wind around 3 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms before 5am. Partly cloudy, with a low around 70. South southwest wind around 3 mph. Chance of precipitation is 20%.",
     "temperature": "70\u00b0F",
-    "wind": "3 mph SW"
+    "wind": "3 mph SSW"
   },
   {
     "name": "Tupelo National Battlefield",
@@ -3461,7 +3461,7 @@
     "name": "Tuskegee Airmen National Historic Site",
     "latitude": 32.45538671,
     "longitude": -85.67983321,
-    "forecast": "A slight chance of showers and thunderstorms before 11pm, then patchy fog. Mostly cloudy, with a low around 71. Southeast wind around 0 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Patchy fog after 2am. Mostly cloudy, with a low around 71. East wind around 0 mph.",
     "temperature": "71\u00b0F",
     "wind": "0 mph "
   },
@@ -3469,7 +3469,7 @@
     "name": "Tuskegee Institute National Historic Site",
     "latitude": 32.42962115,
     "longitude": -85.70488498,
-    "forecast": "A slight chance of showers and thunderstorms before 11pm, then patchy fog. Mostly cloudy, with a low around 71. Southeast wind around 0 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Patchy fog after 3am. Mostly cloudy, with a low around 71. East wind around 0 mph.",
     "temperature": "71\u00b0F",
     "wind": "0 mph "
   },
@@ -3477,8 +3477,8 @@
     "name": "Tuzigoot National Monument",
     "latitude": 34.77296377,
     "longitude": -112.0279069,
-    "forecast": "A chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms between 8pm and 11pm, then a slight chance of showers and thunderstorms between 11pm and 2am. Partly cloudy. Low around 75, with temperatures rising to around 77 overnight. Northeast wind around 8 mph, with gusts as high as 16 mph. Chance of precipitation is 40%.",
-    "temperature": "75\u00b0F",
+    "forecast": "A chance of showers and thunderstorms before 5am. Mostly cloudy, with a low around 74. Northeast wind around 8 mph. Chance of precipitation is 50%.",
+    "temperature": "74\u00b0F",
     "wind": "8 mph NE"
   },
   {
@@ -3517,15 +3517,15 @@
     "name": "Vanderbilt Mansion National Historic Site",
     "latitude": 41.79697937,
     "longitude": -73.94205557,
-    "forecast": "Patchy fog after 4am. Mostly clear, with a low around 52. North wind around 5 mph.",
+    "forecast": "Patchy fog after 4am. Clear, with a low around 52. North wind around 3 mph.",
     "temperature": "52\u00b0F",
-    "wind": "5 mph N"
+    "wind": "3 mph N"
   },
   {
     "name": "Vicksburg National Military Park",
     "latitude": 32.3621286,
     "longitude": -90.85030186,
-    "forecast": "Mostly clear, with a low around 70. East northeast wind around 0 mph.",
+    "forecast": "Mostly clear, with a low around 70. Northeast wind around 0 mph.",
     "temperature": "70\u00b0F",
     "wind": "0 mph "
   },
@@ -3555,7 +3555,7 @@
     "name": "Voyageurs National Park",
     "latitude": 48.48370609,
     "longitude": -92.8382913,
-    "forecast": "Partly cloudy, with a low around 53. Southeast wind around 0 mph.",
+    "forecast": "A chance of rain showers. Mostly cloudy, with a low around 53. Southeast wind around 0 mph. Chance of precipitation is 20%.",
     "temperature": "53\u00b0F",
     "wind": "0 mph "
   },
@@ -3563,23 +3563,23 @@
     "name": "Waco Mammoth National Monument",
     "latitude": 31.60465887,
     "longitude": -97.17606143,
-    "forecast": "Mostly clear, with a low around 77. South southeast wind 5 to 10 mph, with gusts as high as 25 mph.",
+    "forecast": "Mostly clear, with a low around 77. South wind 5 to 10 mph, with gusts as high as 25 mph.",
     "temperature": "77\u00b0F",
-    "wind": "5 to 10 mph SSE"
+    "wind": "5 to 10 mph S"
   },
   {
     "name": "Walnut Canyon National Monument",
     "latitude": 35.16822994,
     "longitude": -111.5024239,
-    "forecast": "A slight chance of showers and thunderstorms before 2am. Mostly cloudy, with a low around 59. Southwest wind 3 to 9 mph, with gusts as high as 17 mph. Chance of precipitation is 20%.",
-    "temperature": "59\u00b0F",
-    "wind": "3 to 9 mph SW"
+    "forecast": "A chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 60. Southwest wind around 6 mph. Chance of precipitation is 50%.",
+    "temperature": "60\u00b0F",
+    "wind": "6 mph SW"
   },
   {
     "name": "War In The Pacific National Historical Park",
     "latitude": 13.43795691,
     "longitude": 144.6922461,
-    "forecast": "Scattered showers and thunderstorms. Mostly cloudy, with a high near 86. Heat index values as high as 99. Northwest wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts between a half and three quarters of an inch possible.",
+    "forecast": "Scattered showers and thunderstorms. Mostly cloudy, with a high near 86. Heat index values as high as 99. Northwest wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible.",
     "temperature": "86\u00b0F",
     "wind": "10 mph NW"
   },
@@ -3603,9 +3603,9 @@
     "name": "Washita Battlefield National Historic Site",
     "latitude": 35.62083963,
     "longitude": -99.70445143,
-    "forecast": "Mostly clear, with a low around 72. South southeast wind around 9 mph.",
+    "forecast": "Mostly clear, with a low around 72. South southeast wind around 8 mph.",
     "temperature": "72\u00b0F",
-    "wind": "9 mph SSE"
+    "wind": "8 mph SSE"
   },
   {
     "name": "Weir Farm National Historical Park",
@@ -3619,33 +3619,33 @@
     "name": "Whiskeytown National Recreation Area",
     "latitude": 40.61359941,
     "longitude": -122.6022657,
-    "forecast": "Clear. Low around 56, with temperatures rising to around 58 overnight. West southwest wind 3 to 7 mph.",
+    "forecast": "Clear. Low around 56, with temperatures rising to around 58 overnight. West wind 3 to 7 mph.",
     "temperature": "56\u00b0F",
-    "wind": "3 to 7 mph WSW"
+    "wind": "3 to 7 mph W"
   },
   {
     "name": "White Sands National Park",
     "latitude": 32.77907858,
     "longitude": -106.3333461,
-    "forecast": "Mostly clear, with a low around 71. South southeast wind around 10 mph.",
+    "forecast": "Partly cloudy, with a low around 71. South southeast wind 7 to 10 mph.",
     "temperature": "71\u00b0F",
-    "wind": "10 mph SSE"
+    "wind": "7 to 10 mph SSE"
   },
   {
     "name": "Whitman Mission National Historic Site",
     "latitude": 46.04119286,
     "longitude": -118.4629388,
-    "forecast": "Mostly clear. Low around 53, with temperatures rising to around 55 overnight. South wind 3 to 10 mph.",
+    "forecast": "Mostly clear. Low around 53, with temperatures rising to around 55 overnight. South wind 5 to 10 mph.",
     "temperature": "53\u00b0F",
-    "wind": "3 to 10 mph S"
+    "wind": "5 to 10 mph S"
   },
   {
     "name": "William Howard Taft National Historic Site",
     "latitude": 39.11970352,
     "longitude": -84.50758951,
-    "forecast": "Mostly clear, with a low around 62. Northeast wind around 3 mph.",
+    "forecast": "Mostly clear, with a low around 62. Northeast wind around 5 mph.",
     "temperature": "62\u00b0F",
-    "wind": "3 mph NE"
+    "wind": "5 mph NE"
   },
   {
     "name": "Wilson's Creek National Battlefield",
@@ -3659,7 +3659,7 @@
     "name": "Wind Cave National Park",
     "latitude": 43.58012365,
     "longitude": -103.4394709,
-    "forecast": "A slight chance of showers and thunderstorms before 9pm. Partly cloudy, with a low around 67. West wind around 6 mph, with gusts as high as 16 mph. Chance of precipitation is 20%.",
+    "forecast": "A slight chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 67. West wind around 6 mph. Chance of precipitation is 20%.",
     "temperature": "67\u00b0F",
     "wind": "6 mph W"
   },
@@ -3675,9 +3675,9 @@
     "name": "Wolf Trap National Park for the Performing Arts",
     "latitude": 38.93854526,
     "longitude": -77.265089,
-    "forecast": "Partly cloudy, with a low around 64. North wind 1 to 5 mph.",
+    "forecast": "Mostly clear, with a low around 64. North wind around 5 mph.",
     "temperature": "64\u00b0F",
-    "wind": "1 to 5 mph N"
+    "wind": "5 mph N"
   },
   {
     "name": "Women's Rights National Historical Park",
@@ -3707,7 +3707,7 @@
     "name": "Wrangell - St Elias National Park & Preserve",
     "latitude": 61.4182147,
     "longitude": -142.6028439,
-    "forecast": "Rain before 10pm, then rain showers. Cloudy, with a low around 43. Southwest wind 0 to 5 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+    "forecast": "Rain before 10pm, then rain showers. Cloudy, with a low around 43. Southwest wind 0 to 5 mph. Chance of precipitation is 90%.",
     "temperature": "43\u00b0F",
     "wind": "0 to 5 mph SW"
   },
@@ -3723,15 +3723,15 @@
     "name": "Wupatki National Monument",
     "latitude": 35.55741077,
     "longitude": -111.3957216,
-    "forecast": "A chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms between 8pm and 2am. Mostly cloudy, with a low around 66. South wind 3 to 10 mph, with gusts as high as 23 mph. Chance of precipitation is 30%.",
-    "temperature": "66\u00b0F",
-    "wind": "3 to 10 mph S"
+    "forecast": "A chance of showers and thunderstorms before 5am. Mostly cloudy, with a low around 65. South wind 3 to 9 mph. Chance of precipitation is 40%.",
+    "temperature": "65\u00b0F",
+    "wind": "3 to 9 mph S"
   },
   {
     "name": "Yellowstone National Park",
     "latitude": 44.59824417,
     "longitude": -110.5471695,
-    "forecast": "Scattered showers and thunderstorms before 9pm, then scattered showers and thunderstorms between 9pm and 10pm, then isolated showers and thunderstorms between 10pm and midnight, then a chance of showers and thunderstorms. Mostly cloudy. Low around 39, with temperatures rising to around 43 overnight. South southwest wind around 2 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A slight chance of showers and thunderstorms before 3am, then showers and thunderstorms likely. Cloudy. Low around 39, with temperatures rising to around 43 overnight. South southwest wind around 2 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.",
     "temperature": "39\u00b0F",
     "wind": "2 mph SSW"
   },
@@ -3739,31 +3739,31 @@
     "name": "Yorktown Battlefield Part of Colonial National Historical Park",
     "latitude": 37.2195,
     "longitude": -76.4983,
-    "forecast": "Mostly cloudy, with a low around 72. North wind around 5 mph. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "Mostly cloudy, with a low around 72. North wind around 6 mph. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "72\u00b0F",
-    "wind": "5 mph N"
+    "wind": "6 mph N"
   },
   {
     "name": "Yosemite National Park",
     "latitude": 37.84883288,
     "longitude": -119.5571873,
-    "forecast": "A chance of showers and thunderstorms before 8pm, then a chance of rain. Partly cloudy. Low around 45, with temperatures rising to around 48 overnight. South southwest wind 0 to 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
+    "forecast": "A chance of rain. Partly cloudy. Low around 45, with temperatures rising to around 48 overnight. South wind 0 to 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
     "temperature": "45\u00b0F",
-    "wind": "0 to 5 mph SSW"
+    "wind": "0 to 5 mph S"
   },
   {
     "name": "Yucca House National Monument",
     "latitude": 37.24778944,
     "longitude": -108.6861274,
-    "forecast": "Isolated showers and thunderstorms. Mostly cloudy, with a low around 61. North wind 5 to 10 mph. Chance of precipitation is 20%.",
-    "temperature": "61\u00b0F",
-    "wind": "5 to 10 mph N"
+    "forecast": "A slight chance of showers and thunderstorms before 3am. Mostly cloudy, with a low around 60. North wind around 5 mph. Chance of precipitation is 20%.",
+    "temperature": "60\u00b0F",
+    "wind": "5 mph N"
   },
   {
     "name": "Yukon - Charley Rivers National Preserve",
     "latitude": 65.0935608,
     "longitude": -142.7960021,
-    "forecast": "A chance of rain showers. Cloudy, with a low around 45. Southwest wind around 5 mph. Chance of precipitation is 60%.",
+    "forecast": "Scattered rain showers. Cloudy, with a low around 45. Southwest wind around 5 mph. Chance of precipitation is 50%.",
     "temperature": "45\u00b0F",
     "wind": "5 mph SW"
   },
@@ -3771,8 +3771,8 @@
     "name": "Zion National Park",
     "latitude": 37.29839254,
     "longitude": -113.0265138,
-    "forecast": "Scattered showers and thunderstorms before midnight, then isolated showers and thunderstorms. Mostly cloudy. Low around 54, with temperatures rising to around 57 overnight. East northeast wind around 8 mph. Chance of precipitation is 30%.",
+    "forecast": "Scattered rain showers before midnight, then isolated showers and thunderstorms. Partly cloudy. Low around 54, with temperatures rising to around 57 overnight. Northeast wind around 7 mph. Chance of precipitation is 30%.",
     "temperature": "54\u00b0F",
-    "wind": "8 mph ENE"
+    "wind": "7 mph NE"
   }
 ]
